@@ -1,0 +1,3870 @@
+{
+ "source": "https://gz-zh.ch",
+ "generated": "2026-10-25",
+ "window": {
+  "start": "2026-10-25",
+  "end": "2026-11-30"
+ },
+ "count": 83,
+ "offers": [
+  {
+   "id": "2-7261",
+   "title": "Resilienz-Wochen",
+   "gz": "GZ Affoltern",
+   "recurrence": "multiday",
+   "dates": [
+    {
+     "date": "2026-10-25",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-26",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-27",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-31",
+     "start": "09:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen",
+    "Wissen/Beratung"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Zürcher Gemeinschaftszentren\nGZ Affoltern\nBodenacker 25\n8046 Zürich",
+   "cost": "",
+   "price_chf_min": null,
+   "registration": null,
+   "notes": "",
+   "description": "Die Resilienz-Wochen im Oktober 2026 bieten interaktive Workshops, Rundgänge und Fachvorträge zur Stärkung der Orientierung, der mentalen Gesundheit und dem Miteinander im Quartier für mehr Sicherheit und Selbstwirksamkeit im Alltag.\nFür alle, die mitdenken, mitreden und mitgestalten wollen.\n07.10.26 – Quartierspaziergang: Städtische Ankerpunkte\n13.10.26 – Referat: Desinformation – eine Antwort mit Mass\n14.10.26 – Workshop: Stärkung der psychischen Resilienz\n22.10.26 – Quartierrundgang: Gegen häusliche Gewalt V\n24.10.26 – Selbstbehauptungskurs: Jungs – selbstbewusst und stark\n27.10.26 – Quartierrundgang: Gegen häusliche Gewalt V\n27.10.26 – Workshop: Unser Quartier im Blick\n28.10.26 – Workshop: Solidarisches Preppen\n28.10.26 – Workshop: Goldene Regeln für die Bevölkerung\n29.10.26 – Quartierrundgang: Gegen häusliche Gewalt V",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/07/GZ-Affoltern-1-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/resilienz-wochen/"
+  },
+  {
+   "id": "13-11845",
+   "title": "Resilienz-Wochen",
+   "gz": "GZ Oerlikon",
+   "recurrence": "multiday",
+   "dates": [
+    {
+     "date": "2026-10-25",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-26",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-27",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-31",
+     "start": "09:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen",
+    "Wissen/Beratung"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Zürcher Gemeinschaftszentren\nGZ Oerlikon\nGubelstrasse 10\n8050 Zürich",
+   "cost": "",
+   "price_chf_min": null,
+   "registration": null,
+   "notes": "",
+   "description": "Die Resilienz-Wochen im Oktober 2026 bieten interaktive Workshops, Rundgänge und Fachvorträge zur Stärkung der Orientierung, der mentalen Gesundheit und dem Miteinander im Quartier für mehr Sicherheit und Selbstwirksamkeit im Alltag.\nFür alle, die mitdenken, mitreden und mitgestalten wollen.\n1.10.26 – Kurs: Erste Hilfe mit Alltagstipps\n22.10.26 – Workshop: Gesundheit hat Saison\n27.10.26 – Workshop: Goldene Regeln für die Bevölkerung\n29.10.26 – Quartierspaziergang: Städtische Ankerpunkte",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/07/GZ-Oerlikon-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/resilienz-wochen/"
+  },
+  {
+   "id": "16-10123",
+   "title": "Resilienz-Wochen",
+   "gz": "GZ Seebach",
+   "recurrence": "multiday",
+   "dates": [
+    {
+     "date": "2026-10-25",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-26",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-27",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "09:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-31",
+     "start": "09:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen",
+    "Wissen/Beratung"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Zürcher Gemeinschaftszentren\nGZ Seebach\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "",
+   "price_chf_min": null,
+   "registration": null,
+   "notes": "",
+   "description": "Die Resilienz-Wochen im Oktober 2026 bieten interaktive Workshops, Rundgänge und Fachvorträge zur Stärkung der Orientierung, der mentalen Gesundheit und dem Miteinander im Quartier für mehr Sicherheit und Selbstwirksamkeit im Alltag.\nFür alle, die mitdenken, mitreden und mitgestalten wollen.\n01. und 02.10.26 – Workshop Public Health: Gesundheit hat Saison\n05.10.26 – Quartierspaziergang: Städtische Ankerpunkte\n12.10.26 – Workshop: Solidarisches Preppen\n13.10.26 – Workshop: Unser Quartier im Blick\n20.10.26 – Workshop: Resilienz verstehen und trainieren\n28.10.26 – Workshop: Stärkung der psychischen Resilienz",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2026/07/GZ-Seebach-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/resilienz-wochen/"
+  },
+  {
+   "id": "16-3969",
+   "title": "Offener Sonntag",
+   "gz": "GZ Seebach",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-10-25",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "13:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Spiel",
+    "Treffs/Gruppen",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Seebach\nProvisorium\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "keine\nausser fürs Café und Basteln",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Ihr seid herzlich willkommen, ob gross oder klein 🙂",
+   "description": "Herzlich willkommen: Kommt vorbei und\nentdeckt unser Haus!\nDas\nCafé\nund die\nSpielräume\nsind offen.\nAm Sonntag 25. Oktober kann im Atelier allerlei grusliges gebastelt werden und um 14 Uhr gibt es eine Kindervorlesung von Valentina Antoni, hier anmelden!\nhttps://gz-zh.ch/gz-seebach/angebote/\nkinderlesung-bunte-wunderteller\n/\n‎\nAm Sonntag 29. November gibt es Adventskranzbinden im Atelier, ohne Anmeldung.\nAdventskranzbinden",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2023/11/1699529570818-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/offener-sonntag-2/"
+  },
+  {
+   "id": "13-5316",
+   "title": "Indoor-Spielplatz",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-25",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-26",
+     "start": "13:30",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-27",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-01",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-02",
+     "start": "13:30",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-03",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-08",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "13:30",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-10",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-15",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-16",
+     "start": "13:30",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-17",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-22",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-23",
+     "start": "13:30",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-24",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "09:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-30",
+     "start": "13:30",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz",
+    "Spiel",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "GZ Oerlikon, EG",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": null,
+   "notes": "",
+   "description": "Der Indoorspielplatz ist bestens mit allerlei Spielgeräten ausgerüstet und bietet mit seinen Kletter- und Fahrgeräten eine abwechslungsreiche Alternative zum eigenen Spielzimmer.\nMacht das Wetter deinem Outdoor-Vorhaben einen Strich durch die Rechnung? Dann ist der Indoorspielplatz eine wunderbare Lösung um sich ein wenig auszutoben. Schlösser, Brücken und Türme mit grossen Legos bauen, klettern und rutschen — alles was die Bewegungs- und Spiellust stillt ist für die Kinder bis 5 Jahre da.\nDu kannst einfach OHNE Voranmeldung vorbei kommen und den Spielplatz nutzen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2023/01/IMG_20230210_151106-01-1190x1190.jpeg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/indoor-spielplatz/"
+  },
+  {
+   "id": "13-1822",
+   "title": "SonntagzOerlikon",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-25",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-01",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-08",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-15",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-22",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "14:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Spiel",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Café und Indoor-Spielplatz, EG",
+   "cost": "",
+   "price_chf_min": null,
+   "registration": false,
+   "notes": "",
+   "description": "Bei Kaffee und Kuchen Freunde treffen, zusammen mit anderen Kindern im Innenspielplatz spielen oder einfach sein…\nGeniessen Sie mit Ihrer Familie den Sonntagnachmittag bei uns im GZ Oerlikon.\nVon Ende Oktober bis Mitte März öffnet das Café und der Indoor-Spielplatz auch am Sonntag.\nManchmal gibt es zusätzlich ein Kinderkultur-Anlass, Kino oder saisonale Angebote.\nWeiter Infos dazu finden Sie unter\nProgramm\n.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2020/12/SonntagzOerlikon-scaled-e1789139339778-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/sonntagzoerlikon-2/"
+  },
+  {
+   "id": "5-746",
+   "title": "Morgenfütterung",
+   "gz": "GZ Buchegg",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-10-31",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-02",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-14",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-16",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-21",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-23",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-30",
+     "start": "09:00",
+     "end": "10:00"
+    }
+   ],
+   "categories": [
+    "Tiere/Natur"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Mo, Fr und Sa um 9.00 Uhr\n(ausser in den Schulferien)\nAchtung, für die Morgenfütterung am Montag, ist der Anmeldeschluss am vorherigen Samstag um 16 Uhr!",
+   "location": "Stall\nGZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "",
+   "description": "Besuchende können nach telefonischer Voranmeldung bei der Morgenfütterung der Tiere mithelfen.",
+   "image_url": null,
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/morgenfuetterung/"
+  },
+  {
+   "id": "13-4808",
+   "title": "Zumbini®",
+   "gz": "GZ Oerlikon",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "start": "10:30",
+     "end": "11:15"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "10:30",
+     "end": "11:15"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Aktionsraum, EG",
+   "cost": "Die erste Lektion kostet CHF 25 (für Kind und Erwachsenen zusammen, auch mit mehreren eigenen Kindern bleibt der Preis gleich).\nFür alle weiteren Lektionen gibt es diverse Abos, siehe www.zumbini-mit-loredana.ch.",
+   "price_chf_min": 25.0,
+   "registration": true,
+   "notes": "Für Kinder von 0-4 Jahren. Der Einstieg ist jederzeit möglich.\nKurs mehrheitlich auf Englisch, vieles wird auch in Deutsch erklärt.",
+   "description": "Happy hour for you and your baby! Sing, dance and play with simple instruments while you bond with your child!\nJust like in Zumba, the original Zumbini songs are fun!\nComparing to other music-based lessons, in Zumbini we are less focussed on learning music, we use music and movements to facilitate a variety of social and development benefits.\nSilliness and wacky dance moves are not required but highly, highly encouraged :-).\nZumbini was created by Zumba: it combines music, dance and educational tools.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2022/06/zumbini-1190x907.png",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/zumbini/"
+  },
+  {
+   "id": "16-1063",
+   "title": "SpielRaum Seebach",
+   "gz": "GZ Seebach",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-27",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-02",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-03",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-10",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-16",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-17",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-23",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-24",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-30",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Spiel",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "SpielRaum Hertenstein\nGZ-Provisorium\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "Freiwilliger Unkostenbeitrag",
+   "price_chf_min": null,
+   "registration": false,
+   "notes": "",
+   "description": "Für Kinder bis ca. 6 Jahre in Begleitung\nIm SpielRaum treffen sich Mütter, Väter, Gross-\nmütter, Nannies, usw. mit Kindern zum Spielen, Werkeln, Plaudern und Austauschen.\nHerzlich willkommen!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2023/10/DSCF6325-2-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/spielraum-seebach-2/"
+  },
+  {
+   "id": "16-3523",
+   "title": "Offenes Malen für Gross und Klein",
+   "gz": "GZ Seebach",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-02",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-16",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-23",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "15:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-30",
+     "start": "15:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Montag und Mittwoch im EG Saal , Atelier, oder draussen, je nach Wetter.\nAm Freitag findet es nur bei schönem Wetter statt, da wir nur draussen Platz haben.",
+   "location": "GZ-Provisorium\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "Materialaufwand\nCHF 2.00 pro Blatt",
+   "price_chf_min": 2.0,
+   "registration": false,
+   "notes": "",
+   "description": "Raum frei für Pinsel und Farbe – für Gross und Klein. An der Malwand lassen wir der Freude an Form und Farbe freien Lauf. Bei schönem Wetter sind wir draussen.\nFür Kinder im Vorschulalter ist Begleitung durch ein Elternteil / eine Bezugsperson willkommen. Die Cafeteria ist geöffnet.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2022/02/fote-malen-zugeschn-scaled-e1674474760114-1190x985.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/offenes-malen-fuer-gross-und-klein/"
+  },
+  {
+   "id": "2-6790",
+   "title": "Kinderzirkus Robinson",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "start": "15:05",
+     "end": "16:05"
+    },
+    {
+     "date": "2026-10-26",
+     "start": "16:10",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-02",
+     "start": "15:05",
+     "end": "16:05"
+    },
+    {
+     "date": "2026-11-02",
+     "start": "16:10",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "15:05",
+     "end": "16:05"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "16:10",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-16",
+     "start": "15:05",
+     "end": "16:05"
+    },
+    {
+     "date": "2026-11-16",
+     "start": "16:10",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-23",
+     "start": "15:05",
+     "end": "16:05"
+    },
+    {
+     "date": "2026-11-23",
+     "start": "16:10",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-30",
+     "start": "15:05",
+     "end": "16:05"
+    },
+    {
+     "date": "2026-11-30",
+     "start": "16:10",
+     "end": "17:30"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "Mo, 15:05-16:05 Uhr\nMo, 16:10-17:30 Uhr\nausser Schulferien",
+   "location": "GZ Affoltern, Bodenacker 25, Saal EG",
+   "cost": "Sommersemester Kindergarten\nMärz – Juli\nCHF 361.00\nWintersemester Kindergarten\nAugust – Februar\nCHF 465.00\nSommersemester Unterstufe\nMärz – Juli\nCHF 493.00\nWintersemester Unterstufe\nAugust – Februar\nCHF 625.00",
+   "price_chf_min": 361.0,
+   "registration": true,
+   "notes": "Instagram",
+   "description": "Die Kurse richten sich an Kinder des 1. und 2. Kindergartenjahres oder der 1. bis 3. Unterstufe. In Gruppen von bis zu 12 Kindern werden die Kinder spielerisch und altersgerecht an unterschiedliche artistische Disziplinen herangeführt. Fokus ist Balance und Akrobatik (ohne Luft). Die Kinder stärken ihre Balancefähigkeit und ihre Beweglichkeit, bauen durch das Training Kraft und Körperspannung auf und steigern ihre Koordinations- und Konzentrationsfähigkeit.Jede Lektion beginnt mit einem spielerischen Aufwärmen, danach wird in die Zirkusdisziplinen eingetaucht. Unter sorgfältiger, professioneller Anleitung lernen die Kinder die eigenen Fähigkeiten kennen. Es wird ohne Leistungsdruck gearbeitet. Vorkenntnisse sind nicht nötig. Wichtigstes Moment ist die Freude an Bewegung.Der Kurs wird alternierend mit einer Vorführung abgeschlossen, an der die Kinder ihren Eltern und Freund:innen das Geübte zeigen, oder mit einem offenen Training, an dem die Kinder ihren Eltern einen Einblick in das Zirkustraining geben.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/02/MG_3791-Verbessert-NR-2-Kopie-777-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/kinderzirkus-robinson/"
+  },
+  {
+   "id": "13-11466",
+   "title": "Oerliker Singmüüs",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "09:30",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-03",
+     "start": "09:30",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-10",
+     "start": "09:30",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-17",
+     "start": "09:30",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-24",
+     "start": "09:30",
+     "end": "10:30"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Saal, 1. OG",
+   "cost": "160 CHF pro Kurs (8 Termine pro Kurs)\nEs hat noch freie Plätze.\nGeschwister unter 12 Monate gratis.\nAktive Teilnahme von Kindern unter 12 Monaten nach Absprache möglich.\nBei 2 Kindern 2. Kind 50%\nSchnupperstunde/Drop In bei freien Plätzen: 25 CHF (Bitte 1 Tag vorher anmelden)",
+   "price_chf_min": 25.0,
+   "registration": true,
+   "notes": "",
+   "description": "Sing- und Tanzkurs für Kinder von 1 bis 4 Jahren mit Begleitperson.\nMit viel Spass und Bewegung entdecken wir die Welt der Musik, erlernen unsere eigene\nmitreissende Singmüüs- Hymne und geniessen den Zauber des gemeinsamen Musizierens\nmit alten und neuen Kinderliedern.\nDie musikalische, sprachliche und soziale Entwicklung fördern wir spielerisch.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/05/Silder_-Oerliker-Singmueues_2026-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/oerliker-singmueues/"
+  },
+  {
+   "id": "5-2802",
+   "title": "Aufenthaltsraum-Musikstube",
+   "gz": "GZ Buchegg",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-01",
+     "start": "11:00",
+     "end": "16:00"
+    },
+    {
+     "date": "2026-11-03",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-10",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-17",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-24",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "10:00",
+     "end": "17:30"
+    }
+   ],
+   "categories": [
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "Di-Fr 10:00-17:30 Uhr",
+   "location": "Aufenthaltsraum\nGZ Buchegg\nBuchegstr. 93\n8057 Zürich",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Selbstbediente Kafi-Ecke ausserhalb der Café-Öffnungszeiten",
+   "description": "Aufenthaltsraum-«Musikstube»\nDer Aufenthaltsraum «Musikstube» ist ein unbetreuter Raum mit Tischen und Stühlen, welcher von Privatpersonen Di-Fr 10:00-17:30 Uhr kostenfrei genutzt werden darf.\nDirekt nebenan ist das\nSpielzimmer .\nAusserhalb der Café-Öffnungszeiten gibt es eine Kafi-Ecke zur Selbstbedienung (Bezahlung bar oder Twint).\nErwachsene Begleitpersonen sind für die Betreuung der Kinder, für Sauberkeit und Ordnung der Räume verantwortlich.\nIm Aufenthaltsraum findest du auch eine Regal voller Bücher, welche du unverbindlich mitnehmen oder ausleihen kannst.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2018/10/2018_Musikstube2-1-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/aufenthaltsraum-musikstube/"
+  },
+  {
+   "id": "5-2184",
+   "title": "Spielzimmer",
+   "gz": "GZ Buchegg",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-03",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-10",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-17",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-24",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "10:00",
+     "end": "17:30"
+    }
+   ],
+   "categories": [
+    "Spiel"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Di-Fr 10:00-17:30 Uhr\nSowie am GZ-Sonntag (1. Sonntag im Monat) 11:00-16:00 Uhr",
+   "location": "Parterre, neben Musikstube-Aufenthaltsraum\nGZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "",
+   "description": "Das Spielzimmer ist ein Raum mit ganz vielen Spielsachen Duplos, Holzklötze, Brett- und Gesellschaftsspiele, Bilderbücher und vielem mehr, in dem auch neue Kontakte und Bekanntschaften geknüpft werden können.\nDer Raum eignet sich vor allem für Kinder bis 6 Jahren (in Begleitung erwachsener Bezugspersonen) und kann Di-Fr 10:00-17:30 Uhr kostenfrei und ohne Anmeldung von Privatpersonen genutzt werden.\nEs ist ein miteinander, und deshalb sind wir darauf angewiesen, dass alle Spielsachen, Bücher und alles andere nach Gebrauch wieder verräumt wird, damit es für alle Kinder und Erwachsene Spiel und Spass ist. Für die Betreuung der Kinder sind die erwachsenen Begleitpersonen verantwortlich.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2020/01/2019_Kindertraum2-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/spielzimmer/"
+  },
+  {
+   "id": "2-7348",
+   "title": "Gegen häusliche Gewalt V",
+   "gz": "GZ Affoltern",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "14:00",
+     "end": "15:00"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "14:00",
+     "end": "15:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Affoltern\nBodenacker 25\n8046 Zürich",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Dieser Event ist Teil der\nResilienz-Wochen Zürich 2026\n:\nÜbersicht aller Events",
+   "description": "Zivilcourage stärkt Resilienz V\nQuartierrundgang: Hinschauen. Vernetzen. Stärken.\nWo finde ich im Quartier Unterstützung, wenn ich sie brauche? Wie kann ich in einer Krisensituation handeln? Welche Orte geben Sicherheit und Orientierung, wenn es im privaten Umfeld schwierig wird? Im Rahmen von Zürich schaut hin und den Resilienz-Wochen laden wir zu einem Quartierrundgang ein. Wir besuchen niederschwellige Anlaufstellen – also sichere Orte, an denen Menschen Informationen, Hilfe und Schutz finden können. Gemeinsam fördern wir das nachbarschaftliche Netzwerk und zeigen Zivilcourage.\nDie Spaziergänge werden von Ona Pinkus und Tilla Leu, Mitarbeiterinnen Soziales Stadtleben, Sozialdepartement, geführt.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/08/Gegen-haeusliche-Gewalt-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/gegen-haeusliche-gewalt-v/"
+  },
+  {
+   "id": "2-152",
+   "title": "Indoor-Spielplatz",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-10-29",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-03",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-10",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-17",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-24",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "13:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Spiel"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Di - Do 14:00 - 17:00 Uhr",
+   "location": "GZ Affoltern, grosser Saal\nBodenacker 25",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Bei Events wie Kindertheater, Kinderkleiderbörse oder Kinderflohmarkt bleibt der Indoor-Spielplatz geschlossen.",
+   "description": "Suchst du mit deinen Kindern etwas Abwechslung? Platz zum Spielen und Austoben? Einen Ort, um neue Bekanntschaften zu schliessen?\nIn den Wintermonaten zwischen Herbstferien und Ostern wird unser grosser Saal regelmässig zum Indoor-Spielplatz für Kinder (bis ca. 7 Jahre) in Begleitung einer erwachsenen Bezugsperson.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2018/09/IMG_4354-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/indoor-spielplatz/"
+  },
+  {
+   "id": "5-725",
+   "title": "Kindercoiffeuse",
+   "gz": "GZ Buchegg",
+   "recurrence": "monthly",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "14:30",
+     "end": "17:30"
+    },
+    {
+     "date": "2026-11-24",
+     "start": "14:30",
+     "end": "17:30"
+    }
+   ],
+   "categories": [
+    "Events"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Für alle kommenden Termine\noben auf \"Alle Daten anzeigen\" klicken!",
+   "location": "Aufenthaltsraum \"Musikstube\"\nGZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "Schnitt zwischen\nCHF 10.00 bis 25.00,\nje nach Aufwand.",
+   "price_chf_min": 10.0,
+   "registration": true,
+   "notes": "",
+   "description": "Kinder können sich hier im GZ in umkomplizierter Umgebung die Haare nachschneiden oder einen neuen Haarschnitt verpassen lassen.\nWir freuen uns auf Ihren Besuch!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2021/04/a-front-view-little-hairdresser-adorable-kid-in-black-cape-posing-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/kindercoiffeuse/"
+  },
+  {
+   "id": "2-7357",
+   "title": "Unser Quartier im Blick",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "18:00",
+     "end": "20:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Affoltern\nBodenacker 25\n8046 Zürich\nKafi-Treff",
+   "cost": "Kostenlos\nAnmelden\nAnmeldung für:\nUnser Quartier im Blick\nDatum, Durchführung (bitte anklicken)\n27.10.2026\nfreie Plätze: 29\nAngaben Person\nVorname *\nNachname *\nE-Mail *\nTelefon *\nAnzahl Erwachsene\nAnzahl Minderjährige\nKurz mitmachen, viel bewirken – hilf uns, Resilienz wirksam zu stärken.\nDie Resilienzwochen werden wissenschaftlich begleitet. Mit deiner Teilnahme an 3 kurzen Umfragen (ca. 15 min) – vor und nach den Resilienzwochen sowie im Januar 2027 – hilfst du mit, das Angebot zu verbessern.\nUnter allen Teilnehmenden verlosen wir Gutscheine im Gesamtwert von CHF 400.\nLink zur Umfrage\nHiermit bestätige ich, die\nDatenschutz-Bestimmungen\ngelesen zu haben.\nAnmeldung abschicken\nDanke für Ihre Anmeldung. Sie erhalten in Kürze eine Bestätigung per E-Mail.\nAbmeldung für:\nAustragen aus der Warteliste für:\nUnser Quartier im Blick\nHier können Sie Ihre Anmeldung löschen.\nFür Änderungen dieser Anmeldung wenden Sie sich bitte direkt an das GZ.\n[siehe Website]\nHier können Sie sich aus der Warteliste austragen.\nAbmelden\nAustragen\nAbbrechen",
+   "price_chf_min": 400.0,
+   "registration": null,
+   "notes": "Dieser Event ist Teil der\nResilienz-Wochen Zürich 2026\n:\nÜbersicht aller Events",
+   "description": "Workshop: Unser Quartier im Blick\nWelches sind in einer Krise die wichtigsten Orte im Quartier? Wie können Quartierorganisationen einander gegenseitig unterstützen? Was kann meine Organisation zur Resilienz im Quartier beitragen? Der Workshop richtet sich an Quartierorganisationen und thematisiert die Bedeutung des nachbarschaftlichen Zusammenhalts in Krisenzeiten anhand konkreter Szenarien.\nWorkshopleitung\nMarkus Meile ist Stabschef der städtischen Führungsorganisation des Sicherheitsdepartement der Stadt Zürich\nMelanie Brändle und Gesine Honegger sind Fachmitarbeiterinnen beim Büro für Sozialraum&Stadtleben im Sozialdepartement der Stadt Zürich. „",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/08/Unser-Quartier-im-Blick-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/unser-quartier-im-blick/"
+  },
+  {
+   "id": "13-11927",
+   "title": "Goldene Regeln für die Bevölkerung",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-27",
+     "start": "18:00",
+     "end": "20:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Oerlikon\nGubelstrasse 10\n8050 Zürich\nCafeteria",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Dieser Event ist Teil der\nResilienz-Wochen Zürich 2026\n:\nÜbersicht aller Events",
+   "description": "Workshop: Goldene Regeln für eine Krise und Realitätscheck Schweiz\nWie oft sind wir froh, unsere Nachbarn zu kennen – nicht nur, wenn wir in letzter Minute merken, dass wir nicht genügend Eier für den Kuchen zuhause haben, sondern vor allem auch dann, wenn nichts mehr geht – zum Beispiel wenn uns die Sommerhitze zu schaffen macht. In diesem Workshop geht es um konkrete Ideen, wie wir unser Umfeld im Alltag bewusster stärken können, und wie wir damit unsere individuelle Vorbereitung auf Krisensituationen fördern. Zudem stellen wir Resultate zweier Bevölkerungsbefragungen vor, die zeigen, wie es um die Vorsorge in der Bevölkerung sowie um die gesellschaftliche Resilienz in der Schweiz steht.\nDer Workshop wird von Kristina Koch & Kimon Arvanitis, Projektleiter*innen Stiftung Risiko-Dialog, und Medea Fux, Projektleiterin Krisenkompetenzzentrum Universität Zürich, geleitet.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/08/Goldene-Regeln-fuer-die-Bevoelkerung-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/goldene-regeln-fuer-die-bevoelkerung-2/"
+  },
+  {
+   "id": "2-6418",
+   "title": "Offenes Spielzimmer",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "09:30",
+     "end": "12:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "09:30",
+     "end": "12:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "09:30",
+     "end": "12:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "09:30",
+     "end": "12:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "09:30",
+     "end": "12:00"
+    }
+   ],
+   "categories": [
+    "Spiel",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "Mittwoch, 9:30–12:00 Uhr ausser Schulferien und Feiertage\nFür Vorschulkinder mit Begleitperson",
+   "location": "GZ Affoltern, Bodenacker 25, 8046 Zürich\nClubraum 2 EG",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Am 09.09., 28.10. und 09.12.2026 findet das\nVorlesen im Spielzimmer\nvon 10-10.30 Uhr statt.",
+   "description": "Mit anderen Kindern die Welt entdecken!\nIm Offenen Spielzimmer erleben Kinder gemeinsam Spiel, Bewegung und Fantasie. Sie entdecken die Welt mit altersgerechtem Spielmaterial und lernen voneinander – ganz spielerisch.\nBegleitpersonen wie Eltern, Grosseltern oder Betreuungspersonen können sich währenddessen austauschen und ihre Kontakte pflegen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2025/09/1000001610-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/offenes-spielzimmer/"
+  },
+  {
+   "id": "2-7221",
+   "title": "Vorlesen im Spielzimmer",
+   "gz": "GZ Affoltern",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "10:00",
+     "end": "10:30"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Sprachen/Literatur"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Mi 09.09.26, 10.00 Uhr\nMi 28.10.26, 10.00 Uhr\nMi 09.12.26, 10.00 Uhr",
+   "location": "GZ Affoltern, Clubraum 2, Bodenacker 25",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Das Vorlesen für Kinder von ca. 2-4 Jahren findet während dem\nOffenen Spielzimmer\nstatt.",
+   "description": "Unsere Freiwillige Sabine liest im Offenen Spielzimmer eine spannende Geschichte vor. Kinder dürfen mitmachen und gemeinsam mit ihr die Welt der Geschichten entdecken.\nDanach besucht uns eine Mitarbeiterin der Bibliothek (PBZ Affoltern). Sie informiert alle Interessierten über weitere Leseangebote für Kinder und Familien.\nAlle Kinder im Vorschulalter und ihre Bezugspersonen sind herzlich eingeladen – zum Geschichten hören und Spielen.\nWir freuen uns auf euch!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/07/Medien-2-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/vorlesen-im-spielzimmer/"
+  },
+  {
+   "id": "13-3515",
+   "title": "Playball Watch Me Play",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "10:45",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "10:45",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "10:45",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "10:45",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "10:45",
+     "end": "11:30"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz",
+    "Spiel",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Gruppenraum, 2. OG",
+   "cost": "Nachfragen bei Byron McGaw",
+   "price_chf_min": null,
+   "registration": true,
+   "notes": "Kurssprache Deutsch und Englisch\nAges 3-5 – Watch Me Play Program",
+   "description": "Playball is the leading children’s sports program in Switzerland. We teach children from the\nages 2-4 years old. The classes teach children fundamental ball skills and how to cooperate in\na group. The program has been running for the last 30 years and was created by sports\nprofessionals, teachers, and doctors. Sports like tennis, football, hockey, basketball, and\nbaseball have been combined to give each child the ability to experience as many different\nsports as possible. All our equipment is designed for young children and for indoor and\noutdoor usage. The coaches are all trained and follow a set sports program for each group.\nPlayball ist das führende Sportprogramm für Kinder in der Schweiz. Wir unterrichten Kinder\nzwischen 2 bis 4 Jahren. Die Kinder lernen in den Lektionen grundlegende Ballfertigkeiten\nsowie das Spielen in der Gruppe. Das Programm gibt es seit 30 Jahren und wurde von\nSportlern, Lehrern und Ärzten entwickelt. Sportarten wie Tennis, Fussball, Hockey\nBasketball und Baseball wurden kombiniert, um jedem Kind die Chance zu geben, so viele\nSportarten wie möglich zu entdecken.\nhttp://www.facebook.com/switzerlandplayball/",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2021/03/4-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/playball-2/"
+  },
+  {
+   "id": "13-793",
+   "title": "Malwerkstatt Farbpunkt",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "13:30",
+     "end": "14:30"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "13:30",
+     "end": "14:30"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "13:30",
+     "end": "14:30"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "13:30",
+     "end": "14:30"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "13:30",
+     "end": "14:30"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "Mittwoch, 13:30 - 14:30 Uhr",
+   "location": "GZ Oerlikon\nSpielraum, 2.OG",
+   "cost": "Auf Nachfrage",
+   "price_chf_min": null,
+   "registration": true,
+   "notes": "Für Kinder ab 4 Jahren",
+   "description": "In der Malwerkstatt Farbpunkt warten viele Farben, glitschiger Kleister, diverse Pinsel und grosse Papierbogen auf malbegeisterte Kinderhände.\nBestätigte Anmeldung erforderlich, da Platzzahl beschränkt.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2018/10/malatelier-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/malwerkstatt-farbpunkt/"
+  },
+  {
+   "id": "2-1410",
+   "title": "Offene Holzwerkstatt",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-10-31",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-14",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-21",
+     "start": "13:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Mi, 14:00–18:00 Uhr\nSa, 13:00–17:00 Uhr\nohne Schulferien und besondere Events",
+   "location": "GZ Affoltern, Bodenacker 25, Holzwerkstatt, UG",
+   "cost": "Eintritt:\nWerkbatze CHF 3.00 pro Person*\nMaterial wird separat verrechnet\nHandmaschinen: CHF 10.00/h\nStationärmaschinen: CHF 15.00/h\n*Vom Werkbatzen ausgenommen sind Besucher*innen die lediglich ihre Kinder begleiten und den Werkbereich nicht aktiv mitnutzen. Mit Kulturlegi 50 % auf Werkbatze und Maschinenstunden",
+   "price_chf_min": 3.0,
+   "registration": true,
+   "notes": "Während den Schulferien und Feiertagen ist die Holzwerkstatt geschlossen.",
+   "description": "Hast du ein anstehendes Projekt, eine Idee, etwas zu bauen oder zu schreinern, ein altes Möbel zum Restaurieren? Du bist ein DIY-Fan und brauchst aber Platz? Dann bist du in der Werkstatt am richtigen Ort! Egal wer du bist und woher du kommst, das handwerkliche Tun verbindet! Egal ob gross oder klein, ob du die Nägel noch krumm einschlägst oder schon auf hohem Niveau schreinerst, der Spass, das Gestalten und das Experimentieren mit Holz und anderen Materialien stehen im Zentrum. In der Werkstatt findest du alle nötigen Werkzeuge für die Holzbearbeitung. Für Erwachsene bieten wir eine solide Ausrüstung an Hand- und Stationärmaschinen an. Natürlich steht dir immer ein kompetentes Fachteam für deine Fragen und die Maschineneinführungen zur Seite.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2019/12/Holz2.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/offene-holzwerkstatt/"
+  },
+  {
+   "id": "2-1757",
+   "title": "Offenes Atelier",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-14",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-21",
+     "start": "13:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Mi, 14:00-18:00 Uhr\nSa, 13:00-17:00 Uhr\nohne Schulferien und besondere Events",
+   "location": "GZ Affoltern, Bodenacker 25,\nAtelier UG",
+   "cost": "Eintritt:\n\"Werkbatze\" CHF 3.00 pro Person*\nMaterial wird separat verrechnet\nMaschinenstunden: CHF 10.00\n*Vom Werkbatzen ausgenommen sind Besucher*innen die lediglich ihre Kinder begleiten und den Werkbereich nicht aktiv mitnutzen. Mit Kulturlegi 50 % auf Werkbatze und Maschinenstunden",
+   "price_chf_min": 3.0,
+   "registration": null,
+   "notes": "Während den Schulferien und Feiertagen ist das Atelier geschlossen.",
+   "description": "Das Atelier wartet mit vielen Materialien wie Ton, Speckstein, Papier und Papiermaché, Textilien, Farbe, Leder usw. auf deinen Besuch. Du bekommst Anleitung und Hilfe bei der Ausführung deiner Arbeiten, lernst den Umgang mit Materialien und handwerkliche Techniken. Kommt vorbei und verwirklicht eure eigenen Ideen!\nDrei neue Nähmaschine, davon eine Overlock!! Hast du seit Langem ein Nähprojekt? Hast du etwas angefangen und es wartet einfach im Schrank? Wir unterstützen euch gerne, Erwachsene sowie auch Kinder rund ums Thema Nähen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2020/07/Atelier-def-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/offenes-atelier/"
+  },
+  {
+   "id": "13-10537",
+   "title": "GZ-Spielmobil Wohnstadion",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Spiel",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Wir kommen am Mittwoch von 14.00 bis 17.00 Uhr an folgenden Daten:\n11.03.26\n01.04.26\n15.04.26\n13.05.26\n03.06.26\n17.06.26\n01.07.26\n19.08.26\n02.09.26\n16.09.26\n30.09.26\n28.10.26",
+   "location": "Wohnstadion Kirchenacker\nInnenhof\n8050 Zürich",
+   "cost": "keine",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Wir kommen auch bei Regen! Bringe Regenkleidung mit.",
+   "description": "Das Spielmobil kommt beladen mit viel Spielzeug, Fahrgeräten und Bastelmaterialien zu euch ins Quartier.\nWir freuen uns mit Klein und Gross ins Gespräch zu kommen. Habt ihr neue Ideen für Oerlikon? Gerne unterstützen wir euch bei der Umsetzung im GZ Oerlikon oder im öffentlichen Raum.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2022/02/mobil-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/gz-spielmobil-wohnstadion/"
+  },
+  {
+   "id": "13-2872",
+   "title": "Tüftel-Werkstatt",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "kinder"
+   ],
+   "schedule": "Mittwoch, 14:00-17:00 Uhr\nausser in den Schulferien",
+   "location": "GZ Oerlikon\nWerkstatt UG",
+   "cost": "CHF 5.00 + Materialverbrauch/\nje nach Projekt",
+   "price_chf_min": 5.0,
+   "registration": false,
+   "notes": "Für alle ab 9 Jahren",
+   "description": "Schwebt dir ein verrücktes Bastelprojekt vor? Oder du möchtest einfach etwas tüfteln?\nBei uns in der Tüftel-Werkstatt bieten wir dir einen Raum und diverse Materialien, um an deinen Ideen zu arbeiten. Tauche in die Werkstatt ein und lass deiner Kreativität freien lauf! Federn, Glitzer, Leim, Stoff, Styropor, Holz, Papier, Glas und vieles mehr warten auf dich.\nPS: Habt ihr Bastelmaterial oder Recycling-Materialien zuhause, welche sonst weggeworfen werden? z.B. : Deckel von Flaschen (gewaschen), Korken, Holzstücke, leere & saubere Tetrapack, Stoffbänder etc., dann dürft ihr diese gerne in die Werkstatt mitbringen!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2020/09/DSCF1573-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/tueftel-werkstatt/"
+  },
+  {
+   "id": "16-666",
+   "title": "Holzwerkstatt für Kinder",
+   "gz": "GZ Seebach",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Jeden Mittwochnachmittag von 14.00 - 17.00\nAusser in den Schulferien.\nWährend der Herbstferien, 3. bis 18. Oktober, bleibt die Werkstatt geschlossen.",
+   "location": "Werkstatt\nGZ Seebach / Provisorium\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "CHF 9.00 inkl. Materialkosten\nKulturlegi 50% Ermässigung",
+   "price_chf_min": 9.0,
+   "registration": false,
+   "notes": "Für Kinder ab 6 Jahren",
+   "description": "Werken für Kinder ab 6 Jahren\nHast du Freude am Sägen, Hämmern, Raspeln, Leimen und Malen? Am Erfinden, Bauen, Basteln und Gestalten? Dann bist du hier am richtigen Ort!\nIn der Werkstatt kannst du, mit oder ohne Vorkenntnisse, Ideen mit Holz oder anderen Materialien verwirklichen. Selbständiges Planen, Tüfteln und Ausprobieren stehen beim Kinderwerken im Zentrum. Natürlich stehen wir bei Bedarf mit Rat und Tat zur Seite.\nHolzwerkstoffe, Karton, Farben, Draht und viele weitere Materialien stehen deinem Erfindergeist zur Verfügung.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2018/10/hlz-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/saegen-raspeln-leimen-nageln/"
+  },
+  {
+   "id": "16-2443",
+   "title": "Indoorspielplatz",
+   "gz": "GZ Seebach",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Spiel"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "In den Sommermonaten kann der Indoorspielplatz auf Anfrage aufgebaut und geöffnet werden. In den Wintermonaten ist er regelmässig geöffnet.",
+   "location": "GZ-Provisorium, Saal\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "Freiwilliger Unkostenbeitrag",
+   "price_chf_min": null,
+   "registration": null,
+   "notes": "Wir haben zwei Räume in denen Kinder spielen können. Im Gegensatz zu unserem Indoorspielplatz (ab ca. 5 Jahren) ist für Kinder bis ca. 6 Jahre unser\nSpielRaum\ngeeignet.",
+   "description": "Offener Treffpunkt für Kinder von ca. 5 bis 12 Jahren mit ihren Eltern. Hier haben Kinder Platz zum Spielen und Herumtollen. Spielgeräte und -sachen sind vorhanden und werden selbstständig genommen und wieder aufgeräumt.\nDer Indoorspielplatz wird nicht durch uns betreut. Eltern begleiten ihre Kinder in den Indoorspielplatz. Wenn ältere Kinder alleine den Raum besuchen dürfen, bringen sie von den Eltern eine Einverständniserklärung mit, auf der der Notfallkontakt inklusive Telefonnummer notiert ist. Wir danken für ihr Verständnis.\nIn den Sommermonaten kann der Indoorspielplatz auf Anfrage aufgebaut und geöffnet werden. In den Wintermonaten ist er regelmässig geöffnet.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2021/01/DSCF6447-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/indoorspielplatz-2/"
+  },
+  {
+   "id": "16-6862",
+   "title": "Kinderatelier Gruselwerkstatt",
+   "gz": "GZ Seebach",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "Mi 21. und 28.Okt\n14:00 - 17:00 Uhr\nund am Sonntag 25.Okt von 13:00-17.00 ist Gruselwerkstatt für alle",
+   "location": "Atelier\nGZ Seebach / Provisorium\nHertensteinstrasse 20\n8052",
+   "cost": "Kosten: Je nach Materialverbrauch\nNur Barzahlung möglich",
+   "price_chf_min": null,
+   "registration": false,
+   "notes": "In der Gruselwerkstatt können ausnahmsweise auch Kinder unter 6 Jahren in Begleitung teilnehmen.",
+   "description": "Am Mi 21. und 28.Okt steht das Atelier unter dem Motto\nGruselwerkstatt\n. Pomponspinnen, Gespenstergirlanden, flatternde Fledermäuse oder Kürbismasken – passend zu Halloween kannst du allerlei grusliges gestalten.\nIm November kannst du dann die Filztechnik ausprobieren (für Kinder ab 6 Jahren)",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2025/10/Wc-Rollentiere-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/kinderatelier-wundertuete/"
+  },
+  {
+   "id": "5-12322",
+   "title": "Wen kümmert’s?!",
+   "gz": "GZ Buchegg",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "15:00",
+     "end": "16:00"
+    },
+    {
+     "date": "2026-11-01",
+     "start": "14:00",
+     "end": "15:00"
+    }
+   ],
+   "categories": [
+    "Theater"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Grosser Saal\nGZ Buchegg\nBucheggstrasse 93\n8057 Zürich",
+   "cost": "15.-\nper Vorverkauf, Bar oder Twint",
+   "price_chf_min": 15.0,
+   "registration": true,
+   "notes": "Sprache: Dialekt\nDauer: 55 Minuten\nAlter: ab 6 Jahren",
+   "description": "Was heisst es eigentlich, ein Alter zu haben? Brokkoli, Gummibärchen, Rutschbahnen und Kreuzworträtsel – Wir machen uns auf den Weg ins wilde Terrain der Generationen.\nEs brodelt und knallt. Das Alter wird mit einer Demo abgeschafft, ein fauchender Dino feiert Geburtstag und Altes und Junges wird in Popsongs zum Besten gegeben. Gemeinsam träumen wir uns weit über die Altersgrenzen hinweg.\n«Wen kümmert’s?!»\nist ein Spiel der Performerin mit Sound, Objekten und dem Publikum. Fantasievoll erkundet das Stück Generationen, das Alter und die Frage, um was wir uns kümmern.\nCast:\nCo-Regie, Performance, Theaterpädagogik: Olivia Stauffer\nCo-Regie, Ausstattung: Jana Brändle\nCo-Regie, Dramaturgie: Jette Jantine Clasen\nMusik, Klanggestaltung: Patricia Meier\nProduktionsleitung: Maria Rebecca Sautter\nProbebegleitung, Produktionsleitung: Robin Blickle\nTechnik, Licht: Zora Brändle\nUnterstützung Ausstattung: Tamara Baumann\nTheaterpädagogik: Wilma Schapp\nOutside–Eye: Melanie Guntern\nMentoring: Anna Papst\nDas uantuzten theaterkollektiv, eine Primarschulklasse und eine Gruppe Senior*innen sammelten gemeinsam Ideen zur Stückentwicklung. Aus diesen Ideen und dem gemeinsamen Dialog ist das Theaterstück entstanden\nVorstellungen:\nMi, 28.10.26, 15:00 Uhr (Premiere)\nSo, 01.11.26, 14:00 Uhr (öffentliche Vorstellung mit anschliessender Premierenfeier)\nSchulvorstellungen:\nDi, 27.10.26, 10:00 Uhr (Schulvorstellung)\nMi, 28.10.26, 10:00 Uhr (Schulvorstellung)\nDo, 29.10.26, 09.30 Uhr (Schulvorstellung)\nFr, 30.10.26, 10:00 Uhr (Schulvorstellung)",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2026/06/260324_uantuzten-theaterkollektiv0198-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/uantuzten/"
+  },
+  {
+   "id": "2-7346",
+   "title": "Solidarisches Preppen",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "16:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Affoltern\nBodenacker 25\n8046 Zürich\nClubraum 1",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Dieser Event ist Teil der\nResilienz-Wochen Zürich 2026\n:\nÜbersicht aller Events",
+   "description": "Workshop: Solidarisches Preppen\nWie helfe ich in einem Ernstfall mir und meiner Umgebung? Wie kann ich mich darauf vorbereiten – alleine oder besser solidarisch im Freundschaftskreis und der Nachbarschaft. In diesem Workshop zum Thema solidarisches Preppen schauen wir auf konkrete Alltagsszenarien und entwickeln einfache, nachbarschaftliche Lösungen. Für alle, die sich mit anderen vernetzen und vorsorgen wollen – ohne Panik, mit Sinn.\nSamuel Eberenz ist promovierter Klimaforscher, Initiant des Labors mit Utopieverdacht und Projektleiter für Klima und Energie bei der Stiftung Risiko-Dialog. Er leitet den Workshop zusammen mit Markus Meile, Stabschef städtische Führungsorganisation (SC SFO).",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/08/Solidarisches-Preppen-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/solidarisches-preppen/"
+  },
+  {
+   "id": "2-7350",
+   "title": "Goldene Regeln für die Bevölkerung",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "18:00",
+     "end": "20:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Affoltern\nBodenacker 25\n8046 Zürich\nKafi-Treff",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Dieser Event ist Teil der\nResilienz-Wochen Zürich 2026\n:\nÜbersicht aller Events",
+   "description": "Workshop: Goldene Regeln für eine Krise und Realitätscheck Schweiz\nWie oft sind wir froh, unsere Nachbarn zu kennen – nicht nur, wenn wir in letzter Minute merken, dass wir nicht genügend Eier für den Kuchen zuhause haben, sondern vor allem auch dann, wenn nichts mehr geht – zum Beispiel wenn uns die Sommerhitze zu schaffen macht. In diesem Workshop geht es um konkrete Ideen, wie wir unser Umfeld im Alltag bewusster stärken können, und wie wir damit unsere individuelle Vorbereitung auf Krisensituationen fördern. Zudem stellen wir Resultate zweier Bevölkerungsbefragungen vor, die zeigen, wie es um die Vorsorge in der Bevölkerung sowie um die gesellschaftliche Resilienz in der Schweiz steht.\nDer Workshop wird von Kristina Koch & Kimon Arvanitis, Projektleiter*innen Stiftung Risiko-Dialog, und Medea Fux, Projektleiterin Krisenkompetenzzentrum Universität Zürich, geleitet.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/08/Goldene-Regeln-fuer-die-Bevoelkerung-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/goldene-regeln-fuer-die-bevoelkerung-2/"
+  },
+  {
+   "id": "16-10271",
+   "title": "Stärkung der psychischen Resilienz",
+   "gz": "GZ Seebach",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-28",
+     "start": "18:00",
+     "end": "20:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Café am Bach\nGZ Seebach-Provisorium\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Dieser Event ist Teil der\nResilienz-Wochen Zürich 2026\n:\nÜbersicht aller Events",
+   "description": "Workshop: Ich packe meinen Resilienzrucksack\nWie kann ich mich für Krisen stärken? In diesem Workshop erfahren Sie, welche Schutzfaktoren die Forschung kennt. Sie erproben praktische Methoden, um Ihre persönliche Resilienz zu fördern und tauschen sich mit anderen darüber aus, was Ihnen besonders hilft. Im Mittelpunkt steht Ihr persönlicher Resilienzrucksack. Sie haben die Möglichkeit, Ihre Packliste mit den Ressourcen, die Ihnen in schwierigen Momenten Halt geben, festzuhalten und nach Hause zu nehmen. Der Workshop wird von Laura Meine, Diandra Lüthi, oder Sara Mostafavi geleitet. Alle drei sind Expertinnen der Universität Zürich.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2026/08/Strategien-zur-Staerkung-der-psychischen-Resilienz-1-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/staerkung-der-psychischen-resilienz/"
+  },
+  {
+   "id": "2-2567",
+   "title": "Atelier für Kleinkinder",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "09:30",
+     "end": "11:30"
+    }
+   ],
+   "categories": [
+    "Spiel",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Jeweils Do, 09:30-11:30\nohne Schulferien",
+   "location": "GZ Affoltern, Bodenacker 25, Atelier UG",
+   "cost": "CHF 9.00 pro Familie\nKulturlegi 1/2 Preis",
+   "price_chf_min": 9.0,
+   "registration": false,
+   "notes": "Für Kinder von 0-4 Jahre mit Begleitung.\n27.11.25: Kleine Advents-Töpfe dekorieren\n04.12.25: Kerzenziehen mit den Kleinen\n11.12.25: Spielen und Bewegen im Saal",
+   "description": "Die Bastelschatztruhe liegt versteckt im Atelier bereit.\nBilderbücher, Materialien und Spiele zum Sinne Erfahren warten auf euch.\nDie Kinder können nach Lust und Laune, in eigenem Tempo und so lange sie mögen experimentieren und ausprobieren.\nDie Erwachsenen begleiten und beobachten die Kinder in ihrem kreativen Tun.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2021/03/IMG_1207-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/kleinkinderatelier/"
+  },
+  {
+   "id": "13-820",
+   "title": "De chli Pinsel",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "09:30",
+     "end": "11:30"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Gruppenraum, 2. Stock",
+   "cost": "CHF 3.00 pro Bild / CHF 1.00 Recycle",
+   "price_chf_min": 1.0,
+   "registration": null,
+   "notes": "",
+   "description": "Willkommen in der Welt der Kreativität! Offene Malwerkstatt für Kinder ab 18 Monaten bis Kindergartenalter mit Begleitung. Malhemden sind vorhanden, die Farben sind ungiftig und leicht auszuwaschen. Es ist keine Anmeldung erforderlich\n.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2019/05/DSC00257-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/de-chli-pinsel-2/"
+  },
+  {
+   "id": "13-10349",
+   "title": "Offenes Singen Donnerstag",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "start": "10:00",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "10:00",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "10:00",
+     "end": "10:30"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz",
+    "Musik",
+    "Spiel"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "kinder"
+   ],
+   "schedule": "unregelmässige Daten. Bitte Webseite beachten.",
+   "location": "GZ Oerlikon\n1. Stock, Saal",
+   "cost": "CHF 5 pro Familie",
+   "price_chf_min": 5.0,
+   "registration": false,
+   "notes": "",
+   "description": "Wir singen, musizieren und bewegen uns gemeinsam. Für Bezugspersonen mit Kindern von 1.5 – 4 Jahre.\nOhne Anmeldung.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/01/DSC07119-1-1190x1080.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/offenes-singen-donnerstag/"
+  },
+  {
+   "id": "16-1645",
+   "title": "Keramik für Alle",
+   "gz": "GZ Seebach",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-05",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-12",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-19",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "Donnerstag\nZwischen 14:00 - 17:00 Uhr",
+   "location": "Atelier, GZ Seebach",
+   "cost": "CHF 3.-/Kinder\nCHF 5.-/Erwachsene\nplus Materialkosten (nach Gewicht)\nNur Barzahlung möglich",
+   "price_chf_min": 3.0,
+   "registration": false,
+   "notes": "Vorschulkinder in Begleitung",
+   "description": "Offenes Keramik-Atelier am Donnerstagnachmittag für Klein und Gross: Ob Keramikneuling oder erfahrene Hobbykeramikerin – ohne Anmeldung kreativ gestalten und ausprobieren.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2023/10/DSCF6280-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/keramik-fuer-alle/"
+  },
+  {
+   "id": "13-11923",
+   "title": "Quartierspaziergang",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-29",
+     "start": "16:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Resilienzwochen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Oerlikon\nGubelstrasse 10\n8050 Zürich\nCafeteria",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Dieser Event ist Teil der\nResilienz-Wochen Zürich 2026\n:\nÜbersicht aller Events",
+   "description": "Quartierspaziergang: Städtische Ankerpunkte\nStellen Sie sich vor, die Lichter gehen aus in Zürich – es gibt keinen Strom mehr. In der Wohnung ist es dunkel, der Herd bleibt kalt, und der Akku Ihres Telefons ist bald auf null. Auch kommt kein Wasser aus den Hähnen und die WC-Spülung funktioniert noch ein einziges Mal. Was machen Sie nun? Wo bekommen Sie Hilfe? Auf einem Spaziergang durchs Quartier zeigen wir Ihnen, was die Stadt für solche Fälle vorbereitet hat.\nZusammen mit Markus Meile, Stabschef städtische Führungsorganisation (SC SFO), Vertreter*innen des Zivilschutzes, der Wasserversorgung und der Stadtpolizei bekommen wir ein Bild, wer uns wo im Falle einer Katastrophe hilft.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/08/Quartierspaziergang-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/quartierspaziergang/"
+  },
+  {
+   "id": "5-719",
+   "title": "Atelier für Kinder von 0-5 Jahren",
+   "gz": "GZ Buchegg",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "09:30",
+     "end": "11:30"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "09:30",
+     "end": "11:30"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Atelier\nGZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "CHF 3.00\n(Geschwisterkinder\nCHF 2.00 / CHF 1.00)\nKulturlegi: 1/2 Preis",
+   "price_chf_min": 1.0,
+   "registration": false,
+   "notes": "Für Kleinkinder in Begleitung einer Bezugsperson.\nIn den Schulferien und an Feiertagen ist das Atelier geschlossen.",
+   "description": "Wir lassen die Kinder mit den bereitgestellten Materialien basteln und experimentieren.\nFür Babys hat es eine Spielecke mit spannenden Utensilien zum Erforschen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2019/07/2019_atelier9_edited-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/atelier-fuer-kleinkinder/"
+  },
+  {
+   "id": "2-7102",
+   "title": "Tüftel-Zwerge",
+   "gz": "GZ Affoltern",
+   "recurrence": "biweekly",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "start": "14:00",
+     "end": "16:00"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "14:00",
+     "end": "16:00"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "14:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Jeden 2. Freitag, 14.00-16.00 Uhr, ohne Schulferien",
+   "location": "GZ Affoltern, Bodenacker 25, Clubraum 2",
+   "cost": "CHF 10.- pro Nachmittag und Kind\nzusätzlicher Kostenbeitrag\n+ CHF 4.- für Material, wenn Begleitperson mitbasteln möchte.\nKulturlegi nach Absprache 1/2 Preis",
+   "price_chf_min": 4.0,
+   "registration": false,
+   "notes": "Zvieri kann auf Wunsch selbst mitgebracht werden.",
+   "description": "Die Tüftelzwerge sind eine kreative Spielgruppe, in der Kinder mit allen Sinnen entdecken, ausprobieren und ihrer Fantasie freien Lauf lassen dürfen – ganz in ihrem eigenen Tempo. Ohne Leistungsdruck, dafür mit viel Freude, Neugier und Raum zum Staunen, wird gemeinsam gestaltet, gefühlt und erforscht.\nVielfältige Materialien und inspirierende Impulse laden dazu ein, Fantasie und Selbstvertrauen spielerisch zu entfalten. Eine liebevoll gestaltete Erzählzeit ergänzt das Angebot und unterstützt spielerisch die Sprachentwicklung.\nDie Spielgruppe Tüftelzwerge ist ein Angebot für Kinder im Alter von 2.5 bis 4 Jahren zusammen mit je einer Begleitperson.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/05/Logo-Tueftelzwerge-2-2.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/tueftelzwerge/"
+  },
+  {
+   "id": "2-7671",
+   "title": "Kreativer Kindertanz",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-30",
+     "start": "14:30",
+     "end": "15:30"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "14:30",
+     "end": "15:30"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "14:30",
+     "end": "15:30"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "14:30",
+     "end": "15:30"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "14:30",
+     "end": "15:30"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "Freitag, 14:30-15:30 Uhr",
+   "location": "GZ Affoltern, Bodenacker 25, Spiegelsaal",
+   "cost": "CHF 19.- pro Lektion, als Kurs buchbar\nKulturlegi nach Absprache 1/2 Preis\nSchnupperstunde kostenlos, Einstieg jederzeit möglich",
+   "price_chf_min": 19.0,
+   "registration": true,
+   "notes": "Für Kinder von 3-5 Jahren",
+   "description": "D\nance & Bloom – spielerisch die Welt des Tanzes entdecken (3-5 Jahre)\nMit Musik, Fantasie und Freude an Bewegung entdecken die Kinder von 3-5 Jahren spielerisch die Welt des Tanzes. Gezielte Bewegungsübungen, fantasievolle Bewegungsreisen und kleine Choreografien fördern Rhythmusgefühl, Körperwahrnehmung und Selbstvertrauen. Dabei bleibt viel Raum für eigene Ideen, freies Tanzen und die Freude an der gemeinsamen Bewegung.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/10/Bild_Web_Dance-Bloom-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/dance-bloom/"
+  },
+  {
+   "id": "2-733",
+   "title": "Männer-Kind-Werken",
+   "gz": "GZ Affoltern",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "start": "09:15",
+     "end": "11:45"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "09:15",
+     "end": "11:45"
+    },
+    {
+     "date": "2026-11-14",
+     "start": "09:15",
+     "end": "11:45"
+    },
+    {
+     "date": "2026-11-21",
+     "start": "09:15",
+     "end": "11:45"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "09:15",
+     "end": "11:45"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Sa, 24.10.-19.12.26\nohne 05.12.26\n09:15-11:45 Uhr",
+   "location": "GZ Affoltern, Bodenacker 25, Holzwerkstatt UG",
+   "cost": "*CHF 120.00 für 1 erwachsene Person mit 1 Kind für 8 Kursmorgen, exklusiv Materialkosten, jedes weitere Kind CHF 60.00 *mit Kulturlegi CHF 80.00\nAnmelden\nAnmeldung für:\nMänner-Kind-Werken\nDatum, Durchführung (bitte anklicken)\nMänner-Kind Werken Sa, 24.10.26 - Sa, 19.12.26\nfreie Plätze: 14 | Anmeldeschluss: 19.12.2026\nAngaben Person\nVorname *\nNachname *\nStrasse und Hausnummer *\nPostleitzahl *\nOrt *\nE-Mail *\nTelefon *\nGeburtsdatum *\nAllergien oder Unverträglichkeiten *\nAnzahl Erwachsene\nAnzahl Minderjährige\nIch habe eine KulturLegi.\nIch möchte\nnicht\n, dass Fotos, auf denen ich oder meine Kinder erkennbar sind, vom GZ publiziert werden.\nBemerkungen\nKosten:\n*CHF 120.00 für 1 erwachsene Person mit 1 Kind für 7 Kursmorgen, exklusiv Materialkosten, jedes weitere Kind CHF 60.00 *mit Kulturlegi CHF 80.00\nKosten im Fall einer Absage:\nIm Falle Ihrer Absage 14 Tage oder weniger vor Beginn müssen wir Ihnen 50% der Kosten verrechnen, es sei denn, Sie organisieren einen Ersatz. Eine Rückerstattung Ihrer Zahlung nach Beginn ist nicht möglich.\nAbsagen bitte per Mail an [siehe Website]\nVerischerung:\nDie Versicherung ist Sache der Teilnehmenden\nHiermit bestätige ich, die\nDatenschutz-Bestimmungen\ngelesen zu haben.\nAnmelde- und Stornierungsbedingungen\nAllgemeine Geschäftsbedingungen (AGB) Ausflüge – GZ Affoltern\nMit Ihrer Anmeldung erklären Sie sich mit den nachfolgenden Bedingungen einverstanden:\nAnmeldung\nDie Anmeldung für den Ausflug erfolgt online über das Anmeldeformular. Dabei sind die vollständigen Kontaktdaten der Teilnehmenden anzugeben.\nFür minderjährige Teilnehmende muss die Anmeldung durch eine*n gesetzliche*n Vertreter*in erfolgen.\nDie Anmeldung ist verbindlich und verpflichtet zur Bezahlung der Ausflugskosten.\nUnfall- und Haftpflichtversicherung\nDie Versicherung des Kindes (Unfall und Haftpflicht) ist Sache der Eltern oder der gesetzlichen Vertreter*innen. Der Veranstalter übernimmt keine Haftung bei Unfällen, Diebstahl oder Schäden an persönlichen Gegenständen während des Ausfluges.\nBesondere Bedürfnisse\nFalls Ihr Kind besondere Bedürfnisse hat (z.B. pädagogischen Unterstützungsbedarf, Allergien, gesundheitliche Einschränkungen), müssen Sie vor der Anmeldung unbedingt Kontakt mit uns aufnehmen. So können wir gemeinsam prüfen, ob eine Teilnahme möglich ist und welche Vorkehrungen getroffen werden können.\nStornierung und Abmeldung\nNach der Anmeldung erhält der/die gesetzliche Vertreter*in eine Anmeldebestätigung per E-Mail. Eine Abmeldung vom gebuchten Ausflug ist ausschliesslich schriftlich per E-Mail möglich.\nDatenschutz\nDie im Rahmen der Anmeldung erhobenen Daten werden ausschliesslich zur Durchführung des Ausfluges verwendet und nicht an Dritte weitergegeben.\nAnmeldung abschicken\nDanke für Ihre Anmeldung. Sie erhalten in Kürze eine Bestätigung per E-Mail.\nAbmeldung für:\nAustragen aus der Warteliste für:\nMänner-Kind-Werken\nHier können Sie Ihre Anmeldung löschen.\nFür Änderungen dieser Anmeldung wenden Sie sich bitte direkt an das GZ.\n[siehe Website]\nHier können Sie sich aus der Warteliste austragen.\nAbmelden\nAustragen\nAbbrechen",
+   "price_chf_min": 60.0,
+   "registration": null,
+   "notes": "Für Kinder von 4 – 12 Jahren mit Begleitperson\nEinstieg jederzeit möglich!",
+   "description": "Verbringe den Samstagmorgen mit Papa, Opa oder Götti tüftelnd und kreierend bei uns in der Holzwerkstatt! Dein feinmotorisches Geschick wird dabei aktiviert und deine Kreativität angeregt. Holz fühlt sich gut und warm an, der Kontakt mit Holz ist ein Naturerlebnis. Kein Stück Holz ist gleich, lass dich davon inspirieren! Bereits ab 4 Jahren hast du die Möglichkeit, mit Naturmaterialien und Werkzeugen zu arbeiten. Sei es mit dem Hammer einen Nagel in ein Brett zu schlagen oder dir dein eigenes Longboard selbst zu bauen – du kannst tun, worauf immer du Lust hast. Zusammen geniessen wir unser gemeinsames Tun und den Spass am Werken in der Holzwerkstatt!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2018/10/MännerKindWerken_K-1190x1190.gif",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/maenner-kind-werken/"
+  },
+  {
+   "id": "13-4801",
+   "title": "D! Mini Kids Club 3-6 Jahre",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "start": "09:45",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "09:45",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-14",
+     "start": "09:45",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-21",
+     "start": "09:45",
+     "end": "10:30"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "09:45",
+     "end": "10:30"
+    }
+   ],
+   "categories": [
+    "Bewegung/Tanz",
+    "Musik",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Aktionsraum EG / Gruppenraum 2. OG",
+   "cost": "CHF 90.00 10er Karte\nDie 1. Kursstunde ist gratis (Probestunde)",
+   "price_chf_min": 90.0,
+   "registration": true,
+   "notes": "Wichtig:\n(3 bis 6 Jahre)\nDie Teilnehmerzahl ist begrenzt. Versicherung ist Sache der Teilnehmenden.\nMitbringen: bequeme Sportkleidung, Spass am Tanzen und gute Laune.\nIn den Schulferien finden keine Kurse statt!",
+   "description": "Kindertanztraining für Kinder von 3 bis 6 Jahren\nWir machen den Kleinsten Beine. Im D! s Mini Kids Club dürfen die Kids tanzen, trommeln, hüpfen und springen. Das Tanztraining wurde von Detlef D! Soost speziell für kleinste Tänzer*innen von 3 – 6 Jahren entwickelt und ist die perfekte Mischung aus Spiel & Tanz. Tanzen wie ein Cowboy, stampfen wie ein Nashorn oder schleichen wie ein Indianer. Gemeinsam mit Freunden spielerisch die Welt des Tanzens entdecken und Spass haben – das schult nicht nur die Motorik, sondern fördert die Konzentration und die Lust am Lernen. Tanzen hält auch die Kleinsten fit und macht stark!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2022/06/foto-logo1-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/d-s-mini-kids-club-s/"
+  },
+  {
+   "id": "16-967",
+   "title": "Flohmarkt",
+   "gz": "GZ Seebach",
+   "recurrence": "monthly",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "start": "10:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Märkte/Börsen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "DRAUSSEN:\nvor dem GZ Provisorium\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "Keine Standkosten",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Der Flohmarkt findet nur bei trockenem Wetter statt",
+   "description": "Habt ihr Lust zu handeln, tauschen, kaufen oder verkaufen? Packt die nicht mehr gebrauchten Waren und Spielsachen zusammen, nehmt eine Decke zum Auslegen und einen Klappstuhl zum Sitzen mit, und kommt ins GZ Seebach. Der Flohmarkt finden im Freien statt. Eine Voranmeldung ist nicht erforderlich. Durchgänge sowie alle Notausgänge müssen freigehalten werden (sind mit Pillonen markiert). Der Standplatz hat eine maximale Grösse von 2.5 Laufmetern. Um 16.00 ist Schluss, und alle nicht verkauften Gegenstände müssen wieder mitgenommen werden!\nDas Café ist geöffnet!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2019/01/20200827_092251-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/flohmarkt/"
+  },
+  {
+   "id": "16-10692",
+   "title": "Kinderschminken und Glitzer-Tattoos",
+   "gz": "GZ Seebach",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "start": "11:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Treffs/Gruppen",
+    "Wissen/Beratung"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "GZ Seebach\nHertensteinstrasse 20\n8052 Zürich\nim Provisorium",
+   "cost": "Preis je nach Materialaufwand von CHF 5.- bis 15.-",
+   "price_chf_min": 5.0,
+   "registration": false,
+   "notes": "",
+   "description": "Halloween im GZ Seebach\nGruselig, bunt und glitzernd: Am 31. Oktober können Kinder ab 3 Jahren bei Kinderschminken und Glitzer-Tattoos kreativ werden. Mit freundlichen Farben und Hochwertigem Glitzer sorgen Lorena & Diana für schaurig-schöne Halloween-Momente!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2026/09/Screenshot_20260930_104627_Word-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/kinderschminken-und-glitzer-tattoos/"
+  },
+  {
+   "id": "2-7684",
+   "title": "💀 Halloween im Offenen Werken 🎃",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "start": "13:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "GZ Affoltern, Bodenacker 25,\nAtelier UG\nHolzwerkstatt UG",
+   "cost": "Eintritt:\n\"Werkbatze\" CHF 3.00 pro Person*\nMaterial wird separat verrechnet\nMaschinenstunden: CHF 10.00\n*Vom Werkbatzen ausgenommen sind Besucher*innen, die lediglich ihre Kinder begleiten und den Werkbereich nicht aktiv mitnutzen. Mit Kulturlegi 50 % auf Werkbatzen und Maschinenstunden",
+   "price_chf_min": 3.0,
+   "registration": null,
+   "notes": "Wenn du für deine Verkleidung bestimmte Stoffe verwenden möchtest, bring sie gerne mit. Bitte beachte, dass grössere Nähprojekte nicht möglich sind.\nDas Atelier und die Holzwerkstatt stehen dir wie gewohnt offen! Auch wenn du nichts zum Thema Halloween gestalten möchtest, bist du herzlich willkommen und kannst an deinen eigenen Projekten weiterarbeiten.",
+   "description": "An Halloween wird es im Atelier und in der Holzwerkstatt schaurig kreativ! Gemeinsam basteln wir gruselige Accessoires, gestalten einfache Verkleidungen und verwandeln uns mit Schminke in Hexen, Vampire, Zombies oder andere schaurige Gestalten. Du kannst auch dein eigenes Halloween-Körbli zum Süssigkeitensammeln basteln oder mit Kunstblut und Latex täuschend echte Gruselwunden gestalten.\nSo machen wir uns gemeinsam bereit, um am Abend bestens verkleidet und ausgerüstet auf Süssigkeitenjagd zu gehen! 🍬\nKomm vorbei und mach dich bereit für einen schaurig schönen Halloween-Abend! 🕷️🩸🎃",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/10/Gemuetliche-Halloween-Bastelwerkstatt-im-Mondlicht-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/halloween-im-offenen-werken/"
+  },
+  {
+   "id": "13-12324",
+   "title": "Halloween Fest",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-10-31",
+     "start": "17:30",
+     "end": "20:00"
+    }
+   ],
+   "categories": [
+    "Events"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "GZ Oerlikon\nganzes Haus",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Für Kinder von 5-10 Jahren mit Begleitung.\nFür die Geisterbahn brauchst du ein Ticket. Gratistickets bekommst du am 31. Oktober ab 17.30 Uhr im grossen Saal, im 1. Stock.\nEs gibt 2 Slots für den Einlass in die Geisterbahn (18.30 Uhr und 19.15 Uhr)",
+   "description": "Bei uns wird gruselig gebastelt, schrecklich lecker gegessen und zum Schluss bekommt ihr einen fürchterlichen Schreck in der Geisterbahn.\nAngebote:\nDisco\nBasteln\nSchminken\nGeisterbahn (nur mit Ticket)\nEssen (süss und salzig)\nDas Essensangebot ist auf zwei Stockwerke verteilt. Im Kafi, EG wird es Süsses und Getränke geben. Hier kannst du mit Bargeld/Karte und TWINT bezahlen. Im Saal, 1. Stock wird es warme/salzige Speisen und Getränke geben. Hier kannst du\nausschliesslich\nmit TWINT bezahlen. Bons für die warmen/salzigen Speisen können auch im Kafi mit Bargeld/Karte bezogen werden.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/09/colton-sturgeon-EFQlS6SL9uw-unsplash-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/halloween-party/"
+  },
+  {
+   "id": "5-7964",
+   "title": "GZ-Sonntag",
+   "gz": "GZ Buchegg",
+   "recurrence": "monthly",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "start": "11:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Märkte/Börsen",
+    "Treffs/Gruppen",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Sonntag 01.11.2026\n11.00-16.00 Uhr inkl. Zmittag",
+   "location": "GZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "Kinderschminken CHF 8.- und Glitter Tattoo CHF 5.-\nVerpflegung/ Snacks und Getränke im Café,\nfalls gewünscht\nTheater-Eintritt: CHF 15.00",
+   "price_chf_min": 5.0,
+   "registration": true,
+   "notes": "Kommt verkleidet! Der GZ Sonntag diesmal mit einem\nDía de los Muertos\n(Tag der Toten) – Special, viel altbekanntes aber auch viel Spezielles.",
+   "description": "Detailprogramm:\nCafé\n11:00 – 16:00 Uhr: erfrischende Getränke, Kaffee und Kuchen und Mittagessen «es hätt solangs hätt».\nAtelier (November-Special)\n11:00 – 15:00:\nKinderschminken\nzu\n„D\nía de los Muertos“\n(Tag der Toten)\nSaal\n14:00 – 15:00 Uhr:\nTheater „Wen kümmert’s?“\nmit anschliessender Premiere-Feier\nSpiegelsaal und Spielgruppenraum\n11:30 – 16:00 Uhr:\n1-Elterntreff.\nFür Alleinerziehende, die unverbindlich andere alleinerziehende Eltern kennenlernen möchten, um sich auszutauschen und ggf. Pläne für gemeinsame Aktivitäten zu schmieden.\nSpielzimmer\n11:00 – 16:00: Ein Raum mit vielen Spielsachen, in dem auch neue Bekanntschaften oder Freundschaften entstehen können. Dieser Raum eignet sich für Kinder bis 6 Jahre in Begleitung erw. Bezugspersonen.\nAufenthaltsraum-Musikstube\n11:00 – 16:00: Ein offener Raum für alle mit Tischen und Stühlen und eine neben dem Spielzimmer.\nPavillon\n11:00 – 16:00:\nRepair Café.\nOb Kleidung, Spielsachen, Haushaltgeräte, kleine Möbel oder Computer: im Repair Café Buchegg können gemeinsam mit ehrenamtlichen Reparatur-Fachleuten kostenlos defekte Dinge repariert werden.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2023/08/bild-Halloween-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/gz-sonntag-halloween-special/"
+  },
+  {
+   "id": "5-2159",
+   "title": "1-Elterntreff (Alleinerziehende)",
+   "gz": "GZ Buchegg",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "start": "11:30",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "7. Dezember\n2026:\n1. Februar/März\n(im April findet kein GZ Sonntag statt)\n3. Mai\n7. Juni\n5. Juli\n(Sommerferien)\n6. September\n4. Oktober\n1. November\n6. Dezember",
+   "location": "Im Spiegelsaal und Spielgruppenraum und bei schönem Wetter im Innenhof",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Ansprechpartnerin aus dem Quartier\nDragana Batista\n[siehe Website]",
+   "description": "Du bist alleinerziehend und möchtest unverbindlich andere alleinerziehende Eltern kennen lernen?\nDann bist du herzlich zu unserem Treff eingeladen.\nWas der 1-Elterntreff bietet:\nRegelmässige Treffen mit Aktivitäten + gemeinsamem Mittagessen (am\nGZ-Sonntag\n)\nAustausch (What’s App Gruppe mit Eventinfos, Planung gemeinsamer Ausflüge, persönliche Anliegen)\nGratisladen\nBei trocken und sonnigen Wetter sind wir im Innenhof und im Park, in dem es einen Sandkasten, Rutschbahnen und vieles mehr hat.\nFalls es kalt und regnerisch ist, finden wir im Spiegelsaal (beim Innenhof) einen trockenen Rückzugsort. Dort können die kleineren Kinder auch einen Mittagsschlaf machen. Die Cafeteria ist geöffnet und bietet feine Getränke und ein Mittagsmenü zu einem fairen Preis an. Der 1- Elterntreff organisiert zusätzlich eine Verpflegungsmöglichkeit für Treffteilnehmer*innen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2020/01/1-Eltern-Treff-e1578670292720-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/1-elterntreff/"
+  },
+  {
+   "id": "2-664",
+   "title": "Lernlokal Flickstube",
+   "gz": "GZ Affoltern",
+   "recurrence": "biweekly",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "16:30"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "16:30"
+    }
+   ],
+   "categories": [
+    "Wissen/Beratung"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "14:00–16:30 Uhr,",
+   "location": "GZ Affoltern, Clubraum 1, Bodenacker 25",
+   "cost": "Preise werden bei Auftragsannahme festgelegt",
+   "price_chf_min": null,
+   "registration": null,
+   "notes": "Freiwillige Unterstützung gesucht – Nähen verbindet Kulturen\nINFOS",
+   "description": "Kleider flicken lassen!\nOb Frühlingsgarderobe aufhübschen oder Winterhose kürzen: In den Flickstube der Caritas Zürich gilt «flicken statt wegwerfen».\nDas schont Ressourcen und ist eine wichtige Integrationsmöglichkeit für unsere Näherinnen.\nWir freuen uns, bringen Sie Ihre Näharbeiten zu uns in die Flickstube.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2018/10/flickstube-1.jpg_K-1-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/flickstube/"
+  },
+  {
+   "id": "2-4536",
+   "title": "RÄBENSCHNITZEN",
+   "gz": "GZ Affoltern",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Mi, 04.11.26,\n14:00–17:00 Uhr\nSa, 07.11.26,\n14:00–17:00 Uhr\nKafi-Treff offen:\nMi, 14:00-18:00 Uhr\nSa, 14.00–18.00 Uhr",
+   "location": "Kafi-Treff EG",
+   "cost": "CHF 4.50 inkl. Kerze und Schnur",
+   "price_chf_min": 4.5,
+   "registration": true,
+   "notes": "Kafi-Treff offen:\nMi, 14:00-18:00 Uhr\nSa, 14.00–18.00 Uhr",
+   "description": "Auch dieses Jahr werden wir wieder gemeinsam Räben schnitzen im GZ. Räben, Schnur, Schnitzwerkzeug und Kerzen sind vorhanden. (Led-Kerzen bitte selber mitbringen.)\nUmzug, Sa, 7.11.2026\n18.00 – 19.45 Uhr\nTreffpunkt 18:00 Uhr\nZug 1:\nGZ unterer Parkplatz – Wolfswinkel – Horensteinstr.\n– Katzenseestr. – Blumenfeldstr.\n– Mühlackerstr. – Zehntenhausstr. – Stöckenackerstr.\n– Fronwaldstrasse\nZug 2:\nRiedenhaldenstr. 1 (Kirche Glaubten) –\nIn Böden – Riedenhaldenstr. – Kunzweg –\nFronwaldstrasse\nZug 3:\nOberer Pausenplatz Schulhaus Holderbach\n– Louis-Conne-Weg – Schauenbergstr.\n– Zehntenhausstr. – in Böden – Jonas-Furrer-\nStr. – Kunzweg – Fronwaldstrasse",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2023/09/Raebenliechtli-schnitzen-Bild-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/raebenschnitzen/"
+  },
+  {
+   "id": "2-6876",
+   "title": "Treff für 4. & 5. Klasse",
+   "gz": "GZ Affoltern",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Jeden 1. Mittwoch im Monat, ohne Schulferien",
+   "location": "GZ Affoltern, Jugendtreff, Bodenacker 25",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "",
+   "description": "Jeden ersten Mittwoch im Monat ist der Jugendtreff von 14:00–16:00 Uhr nur für 4. und 5. Klässler*innen offen!\nChill mit deinen Freunden, lerne neue Leute kennen und hab einfach ’ne gute Zeit.\nDich erwartet immer etwas anderes: kreativ sein, zocken, lachen und Süsses selber machen.\nKomm vorbei, es wird nice – wir freuen uns auf dich!\nProgramm\n06. Mai: Bemalung und kreative\nGestaltung der GZ-Aussenbar\n03. Juni: Essen erraten und andere Spiele\n02. September:\nEscaperoom im GZ",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/02/Mittelstufe-def-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/jugi-fuer-4-und-5-klaesslerinnen/"
+  },
+  {
+   "id": "5-4653",
+   "title": "Räben schnitzen",
+   "gz": "GZ Buchegg",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Aufenthaltsraum-Musikstube\nGZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "Kollekte",
+   "price_chf_min": null,
+   "registration": false,
+   "notes": "",
+   "description": "Bevor am Donnerstagabend der grosse Räbeliechtli-Umzug stattfindet, schnitzen wir miteinander die Laternen.\nWir laden Sie als erwachsene Person ein, im GZ Räbeliechtli für Ihr(e) Kind(er) oder auch für sich selbst zu schnitzen.\nGeniessen Sie den Anlass alleine und überraschen Sie ihr(e) Kind(er) mit einer selbstgeschnitzten Räbe.\nIn Begleitung von Erwachsenen können aber auch Kinder (ab Kindergarten) schnitzen helfen.\nDie nötigen Schnitzmaterialien inkl. Räben und Kerzen werden vom GZ Buchegg organisiert.\nNeben dem Aufenthaltsraum „Musikstube“ ist das Spielzimmer unbetreut geöffnet.\nInfos zum\nRäbeliechtl-Umzug\n:\nDer Räbeliechtliumzug startet im GZ Buchegg und findet am Do, 06.11.25 von 17:50 – ca.19:00 Uhr statt.\nDiesjährige Route: GZ Buchegg-Guggachstrasse-Milchbuckstrasse-Scheuchzerstrasse-Röslistrasse-Röslischüür",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2023/10/raebeliechtli-1190x1070.avif",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/raebeliechtlischnitze/"
+  },
+  {
+   "id": "13-10536",
+   "title": "GZ-Spielmobil Regina Kägi Hof",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Spiel",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Wir kommen am Mittwoch von 14.00 bis 17.00 Uhr an folgenden Daten:\n18.03.26\n08.04.26\n20.05.26\n10.06.26\n24.06.26\n08.07.26\n26.08.26\n09.09.26\n23.09.26\n21.10.26\n04.11.26",
+   "location": "Innenhof Regina Kägi Hof\nRegina-Kägi-Hof 12\n8050 Zürich",
+   "cost": "keine",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Wir kommen auch bei Regen! Bringe Regenkleidung mit.",
+   "description": "Das Spielmobil kommt beladen mit viel Spielzeug, Fahrgeräten und Bastelmaterialien zu euch ins Quartier.\nWir freuen uns mit Klein und Gross ins Gespräch zu kommen. Habt ihr neue Ideen für Oerlikon? Gerne unterstützen wir euch bei der Umsetzung im GZ Oerlikon oder im öffentlichen Raum.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2022/02/mobil-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/gz-spielmobil-regina-kaegi-hof/"
+  },
+  {
+   "id": "13-2940",
+   "title": "Räben schnitzen",
+   "gz": "GZ Oerlikon",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "15:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Treffs/Gruppen",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Atelier & Werkstatt im UG",
+   "cost": "Kostenlos mit Kollekte",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Kinder unter 10 Jahren in Begleitung\nDie Räben werden vom Quartierverein Oerlikon gesponsert.",
+   "description": "Jeweils am Mittwochnachmittag und dem Freitagnachmittag vor dem Räbenliechtli Umzug können bei uns im GZ Räben geschnitzt werden – Lasst eurer Kreativität freien Lauf und gestaltet euer eigenes Lichtobjekt für den Räbelichtliumzug! Wir haben Räben, Schnitzwerkzeug und Schnur im GZ.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2020/10/IMG_9122_3-Kopie-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/raeben-schnitzen-laternen-basteln/"
+  },
+  {
+   "id": "16-10531",
+   "title": "Kinderatelier Filzen",
+   "gz": "GZ Seebach",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "Mittwoch\n14:00 - 17:00 Uhr",
+   "location": "Atelier\nGZ Seebach / Provisorium\nHertensteinstrasse 20\n8052",
+   "cost": "CHF 9.-\ninkl. Material\nKulturLegi 50% Ermässigung\nNur Barzahlung möglich",
+   "price_chf_min": 9.0,
+   "registration": null,
+   "notes": "",
+   "description": "Wie wird aus Schafwolle Filz? Durch drücken, reiben, rollen… Mit warmem Wasser, Seife und viel Handarbeit können eigene kleinere Objekte wie Kugeln, Schlangen oder Täschchen gefilzt werden.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2025/09/Kugel1-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/kinderatelier-filzen/"
+  },
+  {
+   "id": "16-7110",
+   "title": "Kinderatelier Leutschenbach",
+   "gz": "GZ Seebach",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "14:00",
+     "end": "16:30"
+    },
+    {
+     "date": "2026-11-18",
+     "start": "14:00",
+     "end": "16:30"
+    },
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "16:30"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Für Kinder ab 6 Jahren, jüngere Kinder in Begleitung",
+   "location": "Standort Leutschenbach\nKurt-Früh Weg 2",
+   "cost": "Materialkostenbeitrag\n2.- bis 5.-",
+   "price_chf_min": 2.0,
+   "registration": false,
+   "notes": "",
+   "description": "Das Kinderatelier in Leutschenbach richtet sich an Kinder ab 6 Jahren (jüngere in Begleitung), die sich gerne kreativ ausleben oder etwas Neues ausprobieren möchten. Du musst dich nicht anmelden. Komm einfach vorbei und lass dich überraschen!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2025/05/IMG_4508-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/kinderatelier-in-leutschenbach/"
+  },
+  {
+   "id": "5-12326",
+   "title": "Käfer",
+   "gz": "GZ Buchegg",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "15:00",
+     "end": "15:50"
+    }
+   ],
+   "categories": [
+    "Theater"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Grosser Saal\nGZ Buchegg\nBucheggstrasse 93\n8057 Zürich",
+   "cost": "15.-\nper Vorverkauf, Bar oder Twint",
+   "price_chf_min": 15.0,
+   "registration": true,
+   "notes": "Sprache: Dialekt\nDauer: 50 Minuten\nAlter: ab 5 Jahren",
+   "description": "Normalerweise steht Gregor als erster auf und geht arbeiten. Er bringt Geld für die ganze Familie nach Hause. Am Morgen, an dem unsere Geschichte anfängt, ist etwas anders. Gregor steht nicht auf, geht nicht zur Arbeit. Er bleibt im Bett. Die Mutter, der Vater und die Schwester hören seltsame Geräusche aus Gregors Zimmer. Gregor hat sich verwandelt. Mutter, Vater und Schwester wissen nicht was tun. Der verwandelte Gregor hat in ihrem Leben keinen Platz. Er stirbt. Wir erzählen die Geschichte, weil wir uns eine Welt wünschen, in der Platz ist für alle Gregors. Wo wir uns trauen zu sein, wer wir sind. Auch wenn das Veränderung mit sich bringt.\nSeit über 25 Jahren arbeiten Nora Vonder Mühll und Stefan Colombo kontinuierlich als\nTheater Sgaramusch\nzusammen. Mit immer wieder anderen Menschen kreieren sie Theater für junges Publikum. Sie wollen berühren, zum Fragen anregen und herausfordern. Sie sind bekannt für ihre unbändige Lust, immer wieder Neues auszuprobieren. Sie erarbeiten Stücke aus unterschiedlichen Genres und erschaffen Welten mit reduzierten Mitteln. Denn sie trauen ihrem Publikum vieles zu. Ihre Stoffe vertiefen sie mit gründlichen Recherchen zu gesellschaftlichen Fragestellungen, ihre Geschichten bleiben am Puls der Zeit.\nCast:\nRegie: Corsin Gaudenz\nSpiel: Nora Vonder Mühll, Stefan Colombo\nSupport Stückentwicklung: Sarah Gailer\nAusstattung: Demian Wohler\nSounds: Anita Moresi\nOutside eye/Textmitarbeit: Dagny Gioulami\nTheaterpädagogik: Franca Stengl\nGrafik: Remo Keller\nProduktionsleitung: Cornelia Wolf\nVorstellungen:\nMi, 04.11.26, 15:00 Uhr (öffentliche Vorstellung)\nSchulvorstellungen:\nMo, 02.11.26, 13:30 Uhr (Schulvorstellung)\nDi, 03.11.26, 09:30 Uhr (Schulvorstellung)\nMi, 04.11.26, 10.00 Uhr (Schulvorstellung)\nDo, 05.11.26, 10.00 Uhr (Schulvorstellung)\nFr, 06.11.26, 10.00 Uhr (Schulvorstellung)",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2026/06/Sgaramusch_Ka╠efer_3-Bild-Peter-Pfister-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/kaefer/"
+  },
+  {
+   "id": "2-1360",
+   "title": "Kinder-Coiffeuse",
+   "gz": "GZ Affoltern",
+   "recurrence": "monthly",
+   "dates": [
+    {
+     "date": "2026-11-04",
+     "start": "15:15",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events"
+   ],
+   "target_groups": [
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Jeden 1. Mittwoch im Monat, ohne Schulferien, 15:15 bis 17:00 Uhr",
+   "location": "GZ Affoltern, Bodenacker 25, Garderobe EG",
+   "cost": "Haarschnitt Fr. 25.-\nFransen Fr. 5.-",
+   "price_chf_min": 5.0,
+   "registration": true,
+   "notes": "Gut zu wissen:\nFür Kinder & Teens\nFür Termine ausserhalb der Öffnungszeiten melden Sie sich bitte telefonisch oder per Nachricht bei SESUN COIFFRURE.",
+   "description": "Ob frech, cool oder klassisch – im GZ bekommen Kinder ihren Wunschhaarschnitt in entspannter Umgebung.\nSichern Sie sich Ihren Termin mit telefonischer Anmeldung. Spontanbesuche am Mittwochnachmittag sind möglich, sofern es Platz hat.\nIch freue mich sehr auf euch, bis bald!\nSESUN COIFFURE\nFüsun",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2019/11/Foto-Fuesun-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/kindercoiffeuse/"
+  },
+  {
+   "id": "5-5974",
+   "title": "Räbeliechtliumzug",
+   "gz": "GZ Buchegg",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-05",
+     "start": "17:50",
+     "end": "19:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Donnerstag, 5. November 2026\nBesammlung: 17:50 Uhr\nStart: 18:00 Uhr\nAbschluss: ca. 19:00 Uhr",
+   "location": "GZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "",
+   "description": "Auch dieses Jahr findet der berühmt berüchtigte Räbenliechtlianlass im Kreis 6 statt.\nBegleitet wird der Umzug von der „Tambouren Jugendmusik“ und am Ende warten in der Röslischüür warmer Tee und Gebäck für die Kinder bereit.\nBesammlung:\n17:50 Uhr GZ Buchegg\nStart:\n18:00 Uhr\nRoute:\nGuggachstrasse, Milchbuckstrasse, Scheuchzerstrasse, Langmauerstrasse\nAbschluss:\nca. 19:00 Uhr bei der „Röslischüür“,\nRöslistrasse 9\nMehr Infos zum Räbenschnitzen im GZ Buchegg folgen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2024/11/IMG_0371-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/raebeliechtliumzug/"
+  },
+  {
+   "id": "16-10779",
+   "title": "Parent & Child Play Session Autumn",
+   "gz": "GZ Seebach",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "start": "15:30",
+     "end": "16:30"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Spiel",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Hertensteinstrasse 20, 8052 Zürich\nim Provisorium",
+   "cost": "Free of charge",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "",
+   "description": "Parent & Child Play ‚Autumn‘\nLooking for a fun autumn afternoon with your little one? Join us at GZ Seebach for a playful session full of discovery, creativity and quality time together! A lovely opportunity for children aged 1-3 to explore, play and connect with other families in a welcoming atmosphere.\nThe session is available in German, English, Russian or Ukranian. Booking is required to reserve your place. Maximum 6 children.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2026/10/20261012_094256-1190x1190.avif",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/parent-child-play-session-autumn/"
+  },
+  {
+   "id": "13-2990",
+   "title": "Räbeliechtliumzug",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-06",
+     "start": "18:30",
+     "end": "21:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Treffs/Gruppen",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Grosse Route\nTreffpunkt: beim MFO Park\nBesammlung: 18:15\nAbmarsch: 18:30\nKleine Route\nTreffpunkt: Wiese vom Schulhaus\nBaumacker (neben dem GZ)\nBesammlung und Singen: 18:30\nAbmarsch: 18:40",
+   "cost": "keine",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Informationen über wetterbedingte Durchführung sind 24 Stunden vor dem Anlass auf der QV-Webseite ersichtlich.\nBei dringenden Fragen für die grosse Route: [siehe Website]\nKleine Route: Christina Wünn, [siehe Website]",
+   "description": "Räbeliechtliumzug\nKommt mit uns an den traditionellen Oerliker Räbeliechtliumzug. Die grosse Route wird durch eine Gruppe Tambouren begleitet. Die kleine Route, für die kleinen Kinder, stimmt sich auf der Wiese mit Räbenliechtli-Liedern um 18:30 Uhr ein, bevor es losgeht. Beide Gruppen kommen um ca. 19:30 Uhr bei der Schule Gubel an.\nDer Quartierverein Oerlikon offeriert allen Kindern ein Gebäck und heissen Punch an. Für den Punsch. Für den Punsch füllen wir auch gerne\nselbstmitgebrachte Becher und Tassen\n. Zudem können Sie für sich und ihre Kinder eine mitgebrachte Wurst am offenen Feuer grillieren.\nIm GZ Oerlikon könnt Ihr vor dem Anlass\nRäben schnitzen.\nMi, 04.11.26, 14:00 – 17:00 Uhr (GZ Oerlikon)\nFr., 06.11.26, 15:00 – 18:00 Uhr (GZ Oerlikon)\nDie Räben sind durch den Quartierverein Oerlikon gesponsert.\nKosten: Kollekte",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2018/10/IMG_8830-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/raebeliechtliumzug/"
+  },
+  {
+   "id": "13-1129",
+   "title": "Vater-Kind-Treff",
+   "gz": "GZ Oerlikon",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "start": "09:30",
+     "end": "12:00"
+    }
+   ],
+   "categories": [
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Café und Innenspielplatz, EG",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": null,
+   "notes": "",
+   "description": "Väter treffen sich mit ihren Kindern (Vorschulalter bis 2. Klasse) im GZ Oerlikon. Kontakte knüpfen, spielen, Zusammensein und wertvolle Gespräch über Erfahrungen rund um das Vatersein stehen im Mittelpunkt unseres Treffs. Der Innenspielplatz bietet kleinen Kindern viel Bewegungsraum.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2022/09/1663851118460-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/vater-kind-treff/"
+  },
+  {
+   "id": "5-5072",
+   "title": "Keramik für Kinder und Erwachsene",
+   "gz": "GZ Buchegg",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "start": "14:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Der Kurs findet jeden 2ten Samstag statt.\nAusser an Ferien und Feiertagen",
+   "location": "GZ Buchegg\nAtelier\nBucheggstrasse 93\n8057 Zürich",
+   "cost": "Eintritt CHF 5.00 pro Person\nMaterialkosten CHF 3.00 pro 100g\nKulturlegi: Eintritt CHF 3.00/ Person",
+   "price_chf_min": 3.0,
+   "registration": true,
+   "notes": "Für Kinder ab 5 Jahren und Erwachsene.\nKinder ab 7 Jahren können ohne Begleitung teilnehmen.",
+   "description": "Erleben sie spielerisches Experimentieren und einfaches Gestalten mit Ton.\nDas Angebot bietet die Gelegenheit, zusammen mit der Familie oder alleine kreativ zu sein. Die entstandenen Werke können bei uns bunt angemalt und gebrannt werden.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2023/02/keramik_familien-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/keramik-fuer-kinder-und-erwachsene/"
+  },
+  {
+   "id": "5-12800",
+   "title": "TSCHÜSS, PAPAGEI!",
+   "gz": "GZ Buchegg",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "start": "15:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Musik",
+    "Theater"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Grosse Saal",
+   "cost": "Eintritt frei, Kollekte\nAnmelden\nAnmeldung für:\nTSCHÜSS, PAPAGEI!\nDatum, Durchführung (bitte anklicken)\n7.11.2026\nfreie Plätze: 116 | Anmeldeschluss: 6.11.2026\nAngaben Person\nVorname *\nNachname *\nE-Mail *\nTelefon *\nAnzahl Erwachsene\nAnzahl Minderjährige\nHiermit bestätige ich, die\nDatenschutz-Bestimmungen\ngelesen zu haben.\nAnmeldung abschicken\nDanke für Ihre Anmeldung. Sie erhalten in Kürze eine Bestätigung per E-Mail.\nAbmeldung für:\nAustragen aus der Warteliste für:\nTSCHÜSS, PAPAGEI!\nHier können Sie Ihre Anmeldung löschen.\nFür Änderungen dieser Anmeldung wenden Sie sich bitte direkt an das GZ.\n[siehe Website]\nHier können Sie sich aus der Warteliste austragen.\nAbmelden\nAustragen\nAbbrechen",
+   "price_chf_min": 0.0,
+   "registration": null,
+   "notes": "Ein Theaterabenteuer mit viel Musik\nfür Kinder ab 5 Jahren\nDauer der Veranstaltung: 45 Min. Aufführung und danach Instrumentenvorstellung.",
+   "description": "Papagei Einstein ist verschwunden! Der beste Tierfreund von Tim ist plötzlich weg. Tim ist Tierforscher im Zoo Zürich und nach einem missglückten Experiment liegen nur noch Federn in Tims Labor. Zum Glück bekommt er von seiner Freundin Mara tatkräftige Unterstützung. Mara ist Detektivin und Spezialistin für das Aufspüren von verschollenen Dingen. Die beiden haben schon allerlei Abenteuer zusammen erlebt. Gemeinsam begeben sie sich auf die Suche nach Einstein. Mara und Tim verfolgen jede Spur und eine unglaubliche Reise durch Raum und Zeit beginnt.\nEine fantastische Abenteuergeschichte voller Musik erwartet euch!\nEs spielen mit:\nJudith Cuénod und Josef Mohamed\nMariia Pliskina, Geige /\nHéctor Sobrino Bazaga,\nSaxophon / Clara Hinterholzer und Julia Graf, Fagott / Maria Anisonyan, Klavier\nKonzept und Regie: Andrea Brunner\nFoto: Andreas Bächli\nGrafik: Matthias Wyler",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2026/09/tschuess-papagei.webp",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/tschuess-papagei/"
+  },
+  {
+   "id": "13-10626",
+   "title": "Handpan Workshop und Dinner",
+   "gz": "GZ Oerlikon",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "start": "17:00",
+     "end": "21:30"
+    }
+   ],
+   "categories": [
+    "Musik",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien"
+   ],
+   "schedule": "",
+   "location": "Atelier, UG",
+   "cost": "90 CHF pro Person (ohne Handpan – bitte eigenes Instrument in D Kurd oder D Amara/Celtic mitbringen, inklusive Abendessen)\n100 CHF (inklusive Handpan und Abendessen)",
+   "price_chf_min": 90.0,
+   "registration": true,
+   "notes": "Wichtige Infos zum Workshop:\n-Wir spielen in den Skalen D Kurd und D Amara/Celtic.\nEs besteht die Möglichkeit, für den Workshop kostengünstig eine Handpan zu mieten (siehe Eventfrog-Ticket).\nWer bereits eine kompatible Handpan besitzt, kann diese gerne mitbringen, in 440 Hz gestimmt.\n-Wir spielen gemeinsam, hören einander zu und lassen Raum für freien Ausdruck\n-In der Mitte des Workshops machen wir eine gemeinsame Pause. In dieser Zeit wird ein vegetarisches Abendessen serviert.",
+   "description": "Hast du Lust auf einen Abend voller Musik, Vibes und Verbindung?\nWir öffnen im GZ Oerlikon einen Raum für Klang, Rhythmus und Miteinander. Die Handpan ist ein Instrument, das direkt ins Herz geht – intuitiv, warm und verbindend. Genau dieses Gefühl wollen wir gemeinsam erleben. Der Workshop richtet sich an Anfänger:innen und Neugierige – es ist keine Vorerfahrung nötig.\nWir lernen die Grundlagen des Handpan-Spiels, spielen einfache Grooves und Melodien und kommen schnell ins gemeinsame Musizieren. Alles ohne Leistungsdruck, dafür mit Offenheit, Freude und gegenseitigem Zuhören.\nKurz zu mir\nIch spiele seit 6 Jahren Handpan. Dieses Instrument ist für mich nicht nur Musik, sondern pure Leidenschaft – ein lebendiges Feuer in mir. Ich freue mich sehr darauf, mein Wissen, meine Erfahrung und meine Begeisterung mit allen zu teilen, die sich von diesem besonderen Klang angezogen fühlen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/02/handpan-1-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/handpan-workshop-dinner/"
+  },
+  {
+   "id": "2-1986",
+   "title": "Räbenliechtli-Umzüge",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-07",
+     "start": "18:00",
+     "end": "19:45"
+    }
+   ],
+   "categories": [
+    "Events"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Samstag 07.11.2026\n18.00-ca. 19.45 Uhr",
+   "location": "Treffpunkt 18:00 Uhr\nZug 1:\nGZ unterer Parkplatz- Wolfswinkel- Horensteinstr.- Katzenseestr.- Blumenfeldstr.- Mühlackerstr.- Zehntenhausstr.- Stöckenackerstr.- Fronwaldstr.\nZug 2:\nRiedenhaldenstr. 1 (Kirche Glaubten)- ln Böden- Riedenhaldenstr.- Kunzweg- Fronwaldstr.\nZug 3:\nOberer Pausenplatz Schulhaus Holderbach- Louis-Conne-Weg- Schauenbergstr.- Zehntenhausstr.in\nBöden- Jonas-Furrer-Str.- Kunzweg- Fronwaldstr.",
+   "cost": "Keine\nPunsch und Weggen sind offeriert\nvom Quartierverin Affoltern und Bäckerei Hausammann",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Um Abfall zu vermeiden, verwenden wir dieses Jahr gemietete\nMehrweg-Becher\n. Bitte diese nicht in den Abfall werfen, sondern bei der Rückgabestation retournieren!\nDanke für eure Unterstützung für mehr Nachhaltigkeit!",
+   "description": "Die traditionellen Umzüge mit den kunstvoll geschnitzten Räbeliechtli sind im ganzen Quartier bekannt und beliebt. Auch dieses Jahr werden die drei Umzüge wieder durch die Tambouren Zürich Nord und die Gugge Ladykillers musikalisch begleitet. Bei der Sportanlage Fronwald angekommen, erhalten alle vom Quartierverein einen heissen Punsch und einen Weggen.\nRäbeschnitzen im GZ Affoltern:\nMi, 04.11.26, 14:00–17:00 Uhr\nSa, 07.11.26, 14:00–17:00 Uhr",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2020/10/IMG_4096-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/raebeliechtli-umzuege/"
+  },
+  {
+   "id": "13-12381",
+   "title": "Kinderkonzert: Firlifant",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-08",
+     "start": "16:00",
+     "end": "16:45"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Musik",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Platzzahl beschränkt. Gratistickets ab 26.10.26 um 12 Uhr im GZ Café erhältlich",
+   "location": "Saal, 1.OG",
+   "cost": "Eintritt gratis\nFreiwillige Kollekte für die Künstler*innen",
+   "price_chf_min": 0.0,
+   "registration": null,
+   "notes": "Für Familien und Kinder ab 3 Jahren, Kindergarten, 1. und 2. Klasse\nDas Konzert findet im Rahmen eines gesamtinstitutionellen Kinderkulturprojekts statt. Das Angebot richtet sich speziell an Kinder, die bisher wenig Zugang zu Kulturangeboten haben.",
+   "description": "Kinderkonzert FIRLIFANT\nDie Band FIRLIFANT erzählt mit ihren Liedern berührende und lustige Geschichten von Engeln und Menschen, Tieren und Fantasiewesen. Sie zaubert einen Soundtrack zu den Zyklen der Natur, den Jahreszeiten, Tag und Nacht, Wachen und Traum. Sie singt von Sonne, Mond und zum Greifen nahen Sternen. Sie vereinen Weltmusik-Elemente mit balladigem Pop und erdigem Akkustik-Rock zu einem ganz eigenen, „firligen“ Sound.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/10/Firlifant.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/kinderkonzert-firlifant/"
+  },
+  {
+   "id": "13-8257",
+   "title": "Bastelnachmittag Adventsfenster",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Atelier\nGZ Oerlikon",
+   "cost": "Gratis",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "",
+   "description": "Habt ihr Lust, in der Adventszeit ein Fenster eurer Wohnung, eures Horts, der Schule oder des Kindergartens – sichtbar von der Strasse – farbenfroh zu gestalten?\nDann tragt euch bis zum\n15. November 2026\nunter diesem Link ein:\n👉\nAnmeldung Adventsfenster\nWie bei einem Adventskalender soll ab dem eingetragenen Datum\njeden Tag mindestens ein neues Fenster erstrahlen\n– gut sichtbar und stimmungsvoll beleuchtet – und bis nach Weihnachten Freude ins Quartier bringen.\n🎨 Im\nGZ Oerlikon\nfindet am 11. November von 14-16 Uhr ein gemeinsamer Bastelnachmittag statt – eine schöne Gelegenheit, sich inspirieren zu lassen von unseren Ideen oder eigene Ideen mitzubringen. Auf unserer Homepage findet ihr ausserdem Tipps und Anregungen für eure Gestaltung.\nAdventsfenster Oerlikon",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2025/10/Adventsfenster-Oerlikon-1-1190x1190.png",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/adventsfenster-2/"
+  },
+  {
+   "id": "16-10584",
+   "title": "Kindertheater Sgaramusch",
+   "gz": "GZ Seebach",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-11",
+     "start": "14:00",
+     "end": "15:00"
+    }
+   ],
+   "categories": [
+    "Theater"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "GZ Seebach\nStandort Leutschenbach\nKurt-Früh Weg 2\n8050 Zürich",
+   "cost": "CHF 10.- pro Person (egal ob Kind oder Erwachsene)\nCHF 5.- mit Kulturlegi\nAnmelden\nAnmeldung für:\nKindertheater Sgaramusch\nDatum, Durchführung (bitte anklicken)\n11.11.2016\nfreie Plätze: 23 | Anmeldeschluss: 6.11.2026\nAngaben Person\nVorname *\nNachname *\nStrasse und Hausnummer *\nPostleitzahl *\nOrt *\nE-Mail *\nTelefon *\nGeburtsdatum *\nIch habe eine KulturLegi.\nWeitere Person erfassen +\nBitte unter „Weitere Personen erfassen“ die Kinder aufführen.\nFalls Sie verhindert sein sollten, bitte frühzeitig abmelden.\nWir möchten möglichst vielen Kindern die Teilnahme am Theater ermöglichen. Deshalb werden sie aus Platzgründen in den ersten Reihen auf dem Boden sitzen. Falls Sie als Begleitpersonen es wichtig finden, nehmen Sie doch bitte ein Kissen mit. Für die Erwachsenen stehen Stühle zur Verfügung.\nHiermit bestätige ich, die\nDatenschutz-Bestimmungen\ngelesen zu haben.\nAnmeldung abschicken\nDanke für Ihre Anmeldung. Sie erhalten in Kürze eine Bestätigung per E-Mail.\nAbmeldung für:\nAustragen aus der Warteliste für:\nKindertheater Sgaramusch\nHier können Sie Ihre Anmeldung löschen.\nFür Änderungen dieser Anmeldung wenden Sie sich bitte direkt an das GZ.\n[siehe Website]\nHier können Sie sich aus der Warteliste austragen.\nAbmelden\nAustragen\nAbbrechen",
+   "price_chf_min": 5.0,
+   "registration": null,
+   "notes": "Kinder ab 5 Jahren",
+   "description": "DINGDONGGRÜEZI\nEine Haus Bau Schau für Menschen ab 5\nZwei Hausbauer kommen herein, stellen sich vor und beginnen zu zeigen, wie man ein Haus\nbaut. Sie haben Modelle, Pläne, Karton, scharfe Messer, Zollstöcke und andere für den Hausbau\nwichtige Sachen dabei. Doch bevor sie das Haus bauen, müssen sie noch einige Dinge\nherausfinden: Für wen bauen sie das Haus? Wohin bauen sie es? Was braucht es unbedingt in\neinem Haus? –\nUnd woher kommen plötzlich all die Bewohner, die sich in diesem Haus tummeln? Patrizia,\nEnnio, ein Badezimmer, eine Maus, der Mond, und auf dem Dach spaziert eine Giraffe. Auf einmal\nwird da überall wie wild gewohnt, und die beiden Hausbauer geraten ganz aus dem Häuschen.\nEnnio verursacht einen Brand, Patrizia hat einen toten Hasen im Bett, Frau Singer tanzt\nBauchtanz, und Frau Huber wird vom Helikopter abgeholt… Nicht einmal die Giraffe kann da die\nÜbersicht behalten.\nZum Glück haben Jäggi und Partner einen Plan dabei. Und die Bewohner halten zusammen. Am\nEnde haben wir alle viele Geschichten in einer verschachtelten Hauswelt miterlebt. Und ein\nModell zum selber weiter bauen und wohnen bleibt da.\nRegie Corsin Gaudenz\nSpiel Nora Vonder Mühll, Stefan Colombo\nAusstattung Carola Ruckdeschel\nOeil extérieur Carol Blanc\nFlyer Remo Keller\nArchitekt Jens Studer\nProduktionsleitung Cornelia Wolf",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2026/09/Dingdonggrueezi_5Foto_BrunoBuehrer-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/kindertheater-sgaramusch/"
+  },
+  {
+   "id": "2-5636",
+   "title": "Selbstverteidigung für Mädchen",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "start": "09:00",
+     "end": "12:00"
+    }
+   ],
+   "categories": [
+    "Events"
+   ],
+   "target_groups": [
+    "kinder"
+   ],
+   "schedule": "Mädchen von 8-12 Jahren",
+   "location": "GZ-Affoltern, Bodenacker 25, Spiegelsaal UG",
+   "cost": "kostenlos, mit Anmeldung",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Versicherung ist Sache der Teilnehmerin.\nKursleiterin: Sabina Teuscher KomplementärTherapeutin OdA KT Kinesiologie & Pallas Trainerin\nwww.sabina-teuscher.ch\nFacebook",
+   "description": "Selbstverteidigungskurs für Mädchen von 8 bis 12 Jahren\n– Laut und klar Nein sagen\n– Deine Starken kennen lernen ̈\n– Deine Grenzen erkennen, Deine Grenzen setzen\n– Selbstbewusst auftreten und für Dich einstehen\n– Auf spielerische Art Selbstverteidigungstechniken lernen\n– Einfache Selbstverteidigungstechniken wirkungsvoll einsetzen",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2023/12/IMG_20200205_165724_edited_edited-1190x1190-1-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/selbstverteidigung-maedchen/"
+  },
+  {
+   "id": "13-8119",
+   "title": "Keramikatelier für Familien",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-14",
+     "start": "13:30",
+     "end": "16:30"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "an einem Samstag im Monat, 13:30-16:30 Uhr.\nZur Zeit: Wir sind mitten in einer Umstellung, es gibt im Herbst/Winter deshalb nur zwei Slots. Das Angebot wird ab 2027 wieder regelmässig stattfinden.",
+   "location": "Werkstatt, UG",
+   "cost": "CHF 10.00 für jede Erwachsene Person,\nCHF 5.00 pro Kind, exkl. Material\nWir bitten um Verständnis: Zahlungen sind nur per Twint möglich, Bargeld können wir leider nicht annehmen.",
+   "price_chf_min": 5.0,
+   "registration": true,
+   "notes": "Für Kinder ab 4 Jahren, immer in Begleitung\neiner Bezugsperson.\nIhr dürft in dieser Zeitspanne so lange kommen wie ihr mögt, das Atelier ist offen bis 16.30 Uhr. Bitte bedenkt, um ein Objekt fertig zu machen empfehlen wir mindestens\nbis zwei Stunden einzuplanen.",
+   "description": "Gemeinsam kreativ – Keramik gestalten für Kinder mit Bezugspersonen\nTaucht ein in die bunte Welt der Keramik! In unserem neuen Samstagsatelier können Kinder zusammen mit einer vertrauten Bezugsperson/ihren Eltern ihrer Kreativität freien Lauf lassen. Ob Becher, Schale oder Fantasiefigur – hier entstehen kleine Kunstwerke aus Ton, die bemalt und gebrannt zu einzigartigen Erinnerungen werden. Ihr könnt mit verschiedenen aufbauenden Keramiktechniken arbeiten, die Vorort gezeigt werden. Die Objekte können frei von euch mit Engoben bemalt werden und werden nach dem Vorbrand von uns glasiert, ihr dürft eure fertigen Objekte dann ca. vier Wochen später im GZ abholen.\nWir arbeiten mit hochbrand Ton und Engoben (verschiedene Farben vorhanden).\nWir haben keine Drehscheiben.\nWerkzeuge und Material sind vorhanden.\nMaterialkosten: CHF 3.00 pro 100g\nDie fertiggebrannten Arbeiten werden im GZ Oerlikon maximal 6 Monate aufbewahrt.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2024/10/RASPOP3-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/keramik-werkstatt-2/"
+  },
+  {
+   "id": "2-7555",
+   "title": "Tschüss, Papagei!",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-18",
+     "start": "15:00",
+     "end": "15:45"
+    }
+   ],
+   "categories": [
+    "Theater"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Mi, 18.11.26, 15:00 Uhr",
+   "location": "GZ Affoltern, Bodenacker 25, grosser Saal",
+   "cost": "Kostenlos",
+   "price_chf_min": 0.0,
+   "registration": false,
+   "notes": "Kontakt:\nSekretariat GZ Affoltern,\nTel. [siehe Website]\n[siehe Website]",
+   "description": "Papagei Einstein ist verschwunden! Der beste Tierfreund von Tim ist plötzlich weg. Tim ist Tierforscher im Zoo Zürich und nach einem missglückten Experiment liegen nur noch Federn in Tims Labor. Zum Glück bekommt er von seiner Freundin Mara tatkräftige Unterstützung. Mara ist Detektivin und Spezialistin für das Aufspüren von verschollenen Dingen. Die beiden haben schon allerlei Abenteuer zusammen erlebt. Gemeinsam begeben sie sich auf die Suche nach Einstein. Mara und Tim verfolgen jede Spur und eine unglaubliche Reise durch Raum und Zeit beginnt.\nEine fantastische Abenteuergeschichte voller Musik erwartet euch!\nEs spielen mit:\nJudith Cuénod und Josef Mohamed\nMariia Pliskina, Geige / Héctor Sobrino Bazaga, Saxophon / Samuel van der Lem, Fagott / Maria Anisonyan, Klavier\nKonzept und Regie: Andrea Brunner\nFoto: Andreas Bächli\nGrafik: Matthias Wyler\nDauer: Theaterstück ca. 45 Min., anschliessend Musikinstrumente ausprobieren",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2026/09/Tschuess-Papagei-quadratisch-Web.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/tschuess-papagei/"
+  },
+  {
+   "id": "16-9427",
+   "title": "Väter-Kinder-Zmorge",
+   "gz": "GZ Seebach",
+   "recurrence": "multiple",
+   "dates": [
+    {
+     "date": "2026-11-21",
+     "start": "09:00",
+     "end": "12:00"
+    }
+   ],
+   "categories": [
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "familien"
+   ],
+   "schedule": "jeweils 9:00 - 12:00 Uhr",
+   "location": "GZ Seebach\nHertensteinstrasse 20\n8052 Zürich\nIm Café",
+   "cost": "10.- pro Familie",
+   "price_chf_min": 10.0,
+   "registration": true,
+   "notes": "",
+   "description": "Väter und ihre Kinder treffen sich einmal im Monat zum Frühstücken, Reden und Spielen im GZ Seebach. Für Essen und Trinken ist gesorgt. Wir decken gemeinsam den Tisch und räumen gemeinsam auf.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2026/04/1920px-Brotscheiben_auf_dem_Fruehstueckstisch-scaled-e1776942628527-1190x822.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/vaeter-kinder-zmorge/"
+  },
+  {
+   "id": "13-12211",
+   "title": "Tschüss, Papagei! Theater mit Musik",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-22",
+     "start": "15:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Musik",
+    "Theater"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "GZ Oerlikon\n1. Stock\nSaal",
+   "cost": "Eintritt frei\nKollekte",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Für Alle ab 5 Jahren.",
+   "description": "TSCHÜSS, PAPAGEI!\nEin Theaterabenteuer mit viel Musik\nfür Kinder ab 5 Jahren\nPapagei Einstein ist verschwunden! Der beste Tierfreund von Tim ist plötzlich weg. Tim ist Tierforscher im Zoo Zürich und nach einem missglückten Experiment liegen nur noch Federn in Tims Labor. Zum Glück bekommt er von seiner Freundin Mara tatkräftige Unterstützung. Mara ist Detektivin und Spezialistin für das Aufspüren von verschollenen Dingen. Die beiden haben schon allerlei Abenteuer zusammen erlebt. Gemeinsam begeben sie sich auf die Suche nach Einstein. Mara und Tim verfolgen jede Spur und eine unglaubliche Reise durch Raum und Zeit beginnt.\nEine fantastische Abenteuergeschichte voller Musik erwartet euch!\nEs spielen mit:\nJudith Cuénod und Josef Mohamed\nMariia Pliskina, Geige / Héctor Sobrino Bazaga, Saxophon / Samuel van der Lem, Fagott / Maria Anisonyan, Klavier\nKonzept und Regie: Andrea Brunner\nFoto: Andreas Bächli\nGrafik: Matthias Wyler",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/09/Musiktheater-1.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/tschuess-papagei-theater-mit-musik/"
+  },
+  {
+   "id": "2-651",
+   "title": "Adventskranzen",
+   "gz": "GZ Affoltern",
+   "recurrence": "multiday",
+   "dates": [
+    {
+     "date": "2026-11-25",
+     "start": "14:00",
+     "end": "22:00"
+    },
+    {
+     "date": "2026-11-26",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-27",
+     "start": "14:00",
+     "end": "22:00"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "13:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "13:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Mi, 25.11.2026, 14:00-22:00\nDo, 26.11.2026, 14:00-18:00\nFr, 27.11.2026, 14:00-22:00\nSa, 28.11.2026, 13:00-17:00\nSo, 29.11.2026, 13:00-17:00",
+   "location": "GZ Affoltern, Atelier/Holzwerkstatt im UG, Bodenacker 25",
+   "cost": "Unkostenbeitrag je nach Materialvebrauch\nNur Bargeldzahlung oder Twint möglich!",
+   "price_chf_min": null,
+   "registration": false,
+   "notes": "Sa, 25.11.26 und So, 29.11.26 ist der KafiTreff auch offen von 13.00-17.00 Uhr\nParallel zum Adventskranzen findet im GFA Wolfswinkel der\nWeihnachtsmarkt\nstatt.\nMit Advents-Tauschregal!",
+   "description": "Eine Woche lang können Erwachsene und Kinder in vorweihnachtlicher Atmosphäre gemeinsam Adventskränze binden und gestalten. Tannenreisig, verschiedene Immergrün, Kerzen und eine grosse Auswahl an Dekorationsmaterial sind vorhanden. Vom traditionellen rot-grünen bis zum modernen und minimalistischen Kranz stehen also Tausende von Möglichkeiten offen.\nNachhaltig Adventskranzeln und Accessoires recyceln 🎄\nDamit weniger Neues gekauft und mehr wiederverwendet wird, wartet auf dich unser\nAdventstauschregal\n:\n🌟 Bring alte Deko-Accessoires mit\n🌟 Stöbere nach neuen Lieblingsstücken\n🌟 Gestalte deinen Kranz ganz individuell\nSo wird jeder Adventskranz ein Unikat –\nnachhaltig, schön und voller Geschichten!\n💚",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2018/10/Adventskranz-binden-25-Bild-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/adventskraenze-binden/"
+  },
+  {
+   "id": "16-2058",
+   "title": "Adventskranzbinden",
+   "gz": "GZ Seebach",
+   "recurrence": "multiday",
+   "dates": [
+    {
+     "date": "2026-11-27",
+     "start": "16:00",
+     "end": "20:30"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "12:00",
+     "end": "16:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "12:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Treffs/Gruppen",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "",
+   "location": "Atelier\nGZ Seebach\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "Materialkosten je nach Strohringdurchmesser und Material: CHF 18.- bis ca. CHF 60.-",
+   "price_chf_min": 18.0,
+   "registration": false,
+   "notes": "Für Erwachsene, Jugendliche und Kinder in Begleitung",
+   "description": "Gestallte deinen eigenen Adventskranz in gemütlicher Atmosphäre. Wir unterstützen dich gerne dabei und stellen Tannenzweigen frisch vom Stadtwald und weitere dekorative Zweige vom Zürcher Wochenmarkt bereit.\nUnsere Strohringe haben einen Durchmesser von 20, 25 und 30 cm. Die Kerzen beziehen wir von der Firma Schnyder in Einsiedeln, wo diese auch produziert werden.\nSehr gerne darfst du Strohringe und Dekorationen vom letzten Jahr mitbringen und wiederverwenden oder tauschen!\nOder du kannst schöne Zweige aus deinem Garten oder Eicheln, Rindenstücke oder Moos vom Herbstspaziergang mitbringen.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2022/11/IMG_6547-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/adventskraenze-binden-2/"
+  },
+  {
+   "id": "13-841",
+   "title": "Adventskränze binden",
+   "gz": "GZ Oerlikon",
+   "recurrence": "multiday",
+   "dates": [
+    {
+     "date": "2026-11-27",
+     "start": "18:00",
+     "end": "21:00"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "12:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "Freitag und Samstag",
+   "location": "Saal, 1.OG",
+   "cost": "ab CHF 10.00 bis 100.00, je nach Materialverbrauch",
+   "price_chf_min": 10.0,
+   "registration": false,
+   "notes": "Kinder bis 10 Jahre in Begleitung einer erwachsenen Person.",
+   "description": "Adventskränze binden im GZ, ein jährlich wiederkehrender Anlass mit viel Herzblut umgesetzt. Lassen Sie ihrer Kreativität freien Lauf und binden Sie Ihren eigenen Adventskranz. Tannenäste, Grünzeug, Kränze, Verzierungsmaterial und Kerzen sind vorhanden.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2018/10/milada-vigerova-7TS8u99yVs-unsplash-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/adventskraenze-binden/"
+  },
+  {
+   "id": "5-951",
+   "title": "Adventskranzen",
+   "gz": "GZ Buchegg",
+   "recurrence": "multiday",
+   "dates": [
+    {
+     "date": "2026-11-28",
+     "start": "11:00",
+     "end": "17:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "11:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien"
+   ],
+   "schedule": "",
+   "location": "Grosser Saal\nGZ Buchegg",
+   "cost": "pro Kranz inkl. Grünzeug\n20cm -- CHF 20.00\n25cm -- CHF 25.00\n30cm -- CHF 30.00\nGesteck: klein 15.00 CHF\nGesteck gross: 20.00 CHF\nEs gibt keinen Rabatt mit der Kulturlegi.",
+   "price_chf_min": 15.0,
+   "registration": true,
+   "notes": "",
+   "description": "Geniessen Sie einen stimmungsvollen Einstieg zur Adventszeit und binden Sie ihren Adventskranz selber.\nGrünzeug und Werkzeuge stehen zur Verfügung.\nSie können eigene Kerzen mitbringen. Wir haben auch eine einfach Auswahl an Stabkerzen bereit.\nAls Dekoration verwenden wir wenn möglichst Naturmaterialien. Gerne darf auch eigenes Dekomaterial mitgebracht werden.\nFür Erwachsene, Kinder dürfen gerne als Begleitung dabei sein.\nAbverkauf der restlichen Äste ab So, 16:30 Uhr.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/5/2026/10/IMG_5777-Quadratisch-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/kranzen/"
+  },
+  {
+   "id": "16-1570",
+   "title": "Babykonzert – Advent",
+   "gz": "GZ Seebach",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-29",
+     "start": "10:15",
+     "end": "11:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "11:30",
+     "end": "12:15"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Musik",
+    "Theater"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Achtung, es gibt zwei Konzerte!\n10.15 Uhr (Konzert I) und\n11.30 Uhr (Konzert II)\nSaalöffnung ist jeweils 15 min. vor Konzertbeginn.\nDie Konzerte dauern 45 Minuten\nDamit mehr Leute teilnehmen können, wird das gleiche Konzert 2 mal hintereinander stattfinden.\nDie Platzanzahl ist beschränkt. Teilnahme nur mit Anmeldung.",
+   "location": "GZ Seebach\nLandhus Saal\nKatzenbachstrasse 4\n8052 Zürich",
+   "cost": "Vorverkauf 10 CHF pro Person (je Erwachsene, Kind und Baby)\nRestplatz Tageskasse 12 CHF (solange es Platz gibt), Kultur Legi 50%",
+   "price_chf_min": 10.0,
+   "registration": true,
+   "notes": "*Wenn du unseren\nGeschenkgutschein\neinlösen möchtest, melde dich bitte direkt bei\n[siehe Website]\n! (Bitte gib deinen Namen, die Anzahl der Personen, die Gutscheinnummer sowie das genaue Datum und die Uhrzeit der Vorstellung an).",
+   "description": "Konzert zum Advent. Lasst Eure Kleinsten musikalisch an der Weihnachtsstimmung teilhaben! Besinnliches, lustiges Weihnachtslieder und Musik zum mitmachen\nBesetzung: Janina Kriszun (Sopran), Mari Parz (Violine), Yoko Sawa (Klavier)",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2026/10/Advent-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/babykonzert/"
+  },
+  {
+   "id": "2-6268",
+   "title": "Weihnachtsmarkt",
+   "gz": "GZ Affoltern",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-29",
+     "start": "11:00",
+     "end": "16:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Märkte/Börsen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder"
+   ],
+   "schedule": "So, 29.11.26, 11:00- 16:00 Uhr",
+   "location": "Im Gesundheitsheitszentrum für das Alter Wolfswinkel, Bistro im Winkel, Eingangs- und Aussenbereich",
+   "cost": "freier Eintritt",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Um 13.30 Uhr findet ein Gospelkonzert des Schulchores der Privatschule A bis Z im Mehrzwecksaal des GFA Wolfswinkel statt.\nParallel zum Weihnachtsmarkt können Sie im GZ Affoltern schöne Kränze selber machen.",
+   "description": "Jedes Jahr erwartet die Besuchenden des Weihnachtsmarktes rund 25 Stände mit vielen liebevoll gestalteten Produkten – von handgemachtem Schmuck über Kerzen und Gestricktes bis hin zu verpackten, kulinarischen Köstlichkeiten.\nFinden Sie die passende Weihnachtsüberraschung für Ihre Lieblingsmenschen. Lassen Sie sich inspirieren von den selbstgefertigten Geschenken für sich selbst oder andere – und geniessen Sie etwas Leckeres zum Essen und Trinken im Bistro Wolfswinkel.\nMusikalisches Highlight:\nVon 13.30 bis 14.00 Uhr lädt der Schulchor der Privatschule A bis Z zu einem stimmungsvollen Gospelkonzert im Mehrzwecksaal des GFA Wolfswinkel ein. Freuen Sie sich auf festliche und schwungvolle Klänge, die den Weihnachtsmarktbesuch musikalisch bereichern.\nWir freuen uns auf Ihren Besuch!",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/2/2025/06/IMG_2714-1-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-affoltern/angebote/weihnachtsmarkt-2/"
+  },
+  {
+   "id": "13-12383",
+   "title": "Kindertheater Dampf: Fata Morgana",
+   "gz": "GZ Oerlikon",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-29",
+     "start": "16:00",
+     "end": "16:45"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Theater",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Platzzahl beschränkt. Gratistickets ab 16.11.26 um 12 Uhr im GZ Café erhältlich",
+   "location": "Saal, 1.OG",
+   "cost": "Eintritt gratis\nFreiwillige Kollekte für die Künstler*innen",
+   "price_chf_min": 0.0,
+   "registration": null,
+   "notes": "Für Familien und Kinder ab 3 Jahren. Kindergarten, 1 und 2. Klasse.\nDas Theater findet im Rahmen eines gesamtinstitutionellen Kinderkulturprojekts statt. Das Angebot richtet sich speziell an Kinder, die bisher wenig Zugang zu Kulturangeboten haben.",
+   "description": "Theater Dampf FATA MORGANA\nChümel’s verstorbener Freund Mäus hinterliess ihr eine mysteriöse, geheimnisvolle\nLandkarte. Darin wird ihr ein wunderbarer Ort versprochen, an dem sich alle Menschen\nverstehen und glücklich sind. So macht sich Chümel auf den weiten Weg, diesen\nfantastischen Ort zu finden.\nIhre beiden streitlustigen Freunde Buster und der Hase Wilhelm machen sich derweil\nVorwürfe, weil sie Chümel damals einfach so allein haben ziehen lassen. Sie beschliessen\nihr zu folgen. Tatsächlich treffen die drei aufeinander, meistern unzählige\nHerausforderungen und erleben wilde Abenteuer. Doch werden sie das Ziel auch\ngemeinsam erreichen? Oder verwerfen sie sich wieder und gehen am Ende getrennte\nWege? Und erkennen sie das grosse Glück, das sie bereits gefunden haben?\nEin bewegtes und witziges Theaterstück über den Wert von Freundschaft für Menschen.\nRegie: Ueli Bichsel\nSpiel: Marc Locatelli, Martin Kaufmann und Barbara Stehli",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2026/10/TheaterDampf-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/kindertheater-fata-morgana/"
+  }
+ ]
+}
