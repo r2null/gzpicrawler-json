@@ -14,11 +14,6 @@
    "recurrence": "multiday",
    "dates": [
     {
-     "date": "2026-10-25",
-     "start": "09:00",
-     "end": "18:00"
-    },
-    {
      "date": "2026-10-26",
      "start": "09:00",
      "end": "18:00"
@@ -70,16 +65,110 @@
    "url": "https://gz-zh.ch/gz-affoltern/angebote/resilienz-wochen/"
   },
   {
+   "id": "5-746",
+   "title": "Morgenfütterung",
+   "gz": "GZ Buchegg",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-10-26",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-10-30",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-10-31",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-02",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-06",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-07",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-09",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-13",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-14",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-16",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-20",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-21",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-23",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-28",
+     "start": "09:00",
+     "end": "10:00"
+    },
+    {
+     "date": "2026-11-30",
+     "start": "09:00",
+     "end": "10:00"
+    }
+   ],
+   "categories": [
+    "Tiere/Natur"
+   ],
+   "target_groups": [
+    "familien",
+    "kinder"
+   ],
+   "schedule": "Mo, Fr und Sa um 9.00 Uhr\n(ausser in den Schulferien)\nAchtung, für die Morgenfütterung am Montag, ist der Anmeldeschluss am vorherigen Samstag um 16 Uhr!",
+   "location": "Stall\nGZ Buchegg\nBucheggstr. 93\n8057 Zürich",
+   "cost": "kostenlos",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "",
+   "description": "Besuchende können nach telefonischer Voranmeldung bei der Morgenfütterung der Tiere mithelfen.",
+   "image_url": null,
+   "url": "https://gz-zh.ch/gz-buchegg/angebote/morgenfuetterung/"
+  },
+  {
    "id": "13-11845",
    "title": "Resilienz-Wochen",
    "gz": "GZ Oerlikon",
    "recurrence": "multiday",
    "dates": [
-    {
-     "date": "2026-10-25",
-     "start": "09:00",
-     "end": "18:00"
-    },
     {
      "date": "2026-10-26",
      "start": "09:00",
@@ -138,11 +227,6 @@
    "recurrence": "multiday",
    "dates": [
     {
-     "date": "2026-10-25",
-     "start": "09:00",
-     "end": "18:00"
-    },
-    {
      "date": "2026-10-26",
      "start": "09:00",
      "end": "18:00"
@@ -194,44 +278,39 @@
    "url": "https://gz-zh.ch/gz-seebach/angebote/resilienz-wochen/"
   },
   {
-   "id": "16-3969",
-   "title": "Offener Sonntag",
-   "gz": "GZ Seebach",
+   "id": "13-4808",
+   "title": "Zumbini®",
+   "gz": "GZ Oerlikon",
    "recurrence": "multiple",
    "dates": [
     {
-     "date": "2026-10-25",
-     "start": "13:00",
-     "end": "17:00"
+     "date": "2026-10-26",
+     "start": "10:30",
+     "end": "11:15"
     },
     {
-     "date": "2026-11-29",
-     "start": "13:00",
-     "end": "17:00"
+     "date": "2026-11-09",
+     "start": "10:30",
+     "end": "11:15"
     }
    ],
    "categories": [
-    "Events",
-    "Spiel",
-    "Treffs/Gruppen",
-    "Werken/Gestalten"
+    "Bewegung/Tanz",
+    "Treffs/Gruppen"
    ],
    "target_groups": [
-    "erwachsene",
     "familien",
-    "jugendliche",
-    "kinder",
-    "seniorinnen"
+    "kinder"
    ],
    "schedule": "",
-   "location": "GZ Seebach\nProvisorium\nHertensteinstrasse 20\n8052 Zürich",
-   "cost": "keine\nausser fürs Café und Basteln",
-   "price_chf_min": 0.0,
+   "location": "Aktionsraum, EG",
+   "cost": "Die erste Lektion kostet CHF 25 (für Kind und Erwachsenen zusammen, auch mit mehreren eigenen Kindern bleibt der Preis gleich).\nFür alle weiteren Lektionen gibt es diverse Abos, siehe www.zumbini-mit-loredana.ch.",
+   "price_chf_min": 25.0,
    "registration": true,
-   "notes": "Ihr seid herzlich willkommen, ob gross oder klein 🙂",
-   "description": "Herzlich willkommen: Kommt vorbei und\nentdeckt unser Haus!\nDas\nCafé\nund die\nSpielräume\nsind offen.\nAm Sonntag 25. Oktober kann im Atelier allerlei grusliges gebastelt werden und um 14 Uhr gibt es eine Kindervorlesung von Valentina Antoni, hier anmelden!\nhttps://gz-zh.ch/gz-seebach/angebote/\nkinderlesung-bunte-wunderteller\n/\n‎\nAm Sonntag 29. November gibt es Adventskranzbinden im Atelier, ohne Anmeldung.\nAdventskranzbinden",
-   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2023/11/1699529570818-1190x1190.jpg",
-   "url": "https://gz-zh.ch/gz-seebach/angebote/offener-sonntag-2/"
+   "notes": "Für Kinder von 0-4 Jahren. Der Einstieg ist jederzeit möglich.\nKurs mehrheitlich auf Englisch, vieles wird auch in Deutsch erklärt.",
+   "description": "Happy hour for you and your baby! Sing, dance and play with simple instruments while you bond with your child!\nJust like in Zumba, the original Zumbini songs are fun!\nComparing to other music-based lessons, in Zumbini we are less focussed on learning music, we use music and movements to facilitate a variety of social and development benefits.\nSilliness and wacky dance moves are not required but highly, highly encouraged :-).\nZumbini was created by Zumba: it combines music, dance and educational tools.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2022/06/zumbini-1190x907.png",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/zumbini/"
   },
   {
    "id": "13-5316",
@@ -239,11 +318,6 @@
    "gz": "GZ Oerlikon",
    "recurrence": "weekly",
    "dates": [
-    {
-     "date": "2026-10-25",
-     "start": "14:00",
-     "end": "18:00"
-    },
     {
      "date": "2026-10-26",
      "start": "13:30",
@@ -418,199 +492,6 @@
    "description": "Der Indoorspielplatz ist bestens mit allerlei Spielgeräten ausgerüstet und bietet mit seinen Kletter- und Fahrgeräten eine abwechslungsreiche Alternative zum eigenen Spielzimmer.\nMacht das Wetter deinem Outdoor-Vorhaben einen Strich durch die Rechnung? Dann ist der Indoorspielplatz eine wunderbare Lösung um sich ein wenig auszutoben. Schlösser, Brücken und Türme mit grossen Legos bauen, klettern und rutschen — alles was die Bewegungs- und Spiellust stillt ist für die Kinder bis 5 Jahre da.\nDu kannst einfach OHNE Voranmeldung vorbei kommen und den Spielplatz nutzen.",
    "image_url": "https://gz-zh.ch/app/uploads/sites/13/2023/01/IMG_20230210_151106-01-1190x1190.jpeg",
    "url": "https://gz-zh.ch/gz-oerlikon/angebote/indoor-spielplatz/"
-  },
-  {
-   "id": "13-1822",
-   "title": "SonntagzOerlikon",
-   "gz": "GZ Oerlikon",
-   "recurrence": "weekly",
-   "dates": [
-    {
-     "date": "2026-10-25",
-     "start": "14:00",
-     "end": "18:00"
-    },
-    {
-     "date": "2026-11-01",
-     "start": "14:00",
-     "end": "18:00"
-    },
-    {
-     "date": "2026-11-08",
-     "start": "14:00",
-     "end": "18:00"
-    },
-    {
-     "date": "2026-11-15",
-     "start": "14:00",
-     "end": "18:00"
-    },
-    {
-     "date": "2026-11-22",
-     "start": "14:00",
-     "end": "18:00"
-    },
-    {
-     "date": "2026-11-29",
-     "start": "14:00",
-     "end": "18:00"
-    }
-   ],
-   "categories": [
-    "Events",
-    "Spiel",
-    "Treffs/Gruppen"
-   ],
-   "target_groups": [
-    "erwachsene",
-    "familien",
-    "jugendliche",
-    "kinder",
-    "seniorinnen"
-   ],
-   "schedule": "",
-   "location": "Café und Indoor-Spielplatz, EG",
-   "cost": "",
-   "price_chf_min": null,
-   "registration": false,
-   "notes": "",
-   "description": "Bei Kaffee und Kuchen Freunde treffen, zusammen mit anderen Kindern im Innenspielplatz spielen oder einfach sein…\nGeniessen Sie mit Ihrer Familie den Sonntagnachmittag bei uns im GZ Oerlikon.\nVon Ende Oktober bis Mitte März öffnet das Café und der Indoor-Spielplatz auch am Sonntag.\nManchmal gibt es zusätzlich ein Kinderkultur-Anlass, Kino oder saisonale Angebote.\nWeiter Infos dazu finden Sie unter\nProgramm\n.",
-   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2020/12/SonntagzOerlikon-scaled-e1789139339778-1190x1190.webp",
-   "url": "https://gz-zh.ch/gz-oerlikon/angebote/sonntagzoerlikon-2/"
-  },
-  {
-   "id": "5-746",
-   "title": "Morgenfütterung",
-   "gz": "GZ Buchegg",
-   "recurrence": "weekly",
-   "dates": [
-    {
-     "date": "2026-10-26",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-10-30",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-10-31",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-02",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-06",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-07",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-09",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-13",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-14",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-16",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-20",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-21",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-23",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-28",
-     "start": "09:00",
-     "end": "10:00"
-    },
-    {
-     "date": "2026-11-30",
-     "start": "09:00",
-     "end": "10:00"
-    }
-   ],
-   "categories": [
-    "Tiere/Natur"
-   ],
-   "target_groups": [
-    "familien",
-    "kinder"
-   ],
-   "schedule": "Mo, Fr und Sa um 9.00 Uhr\n(ausser in den Schulferien)\nAchtung, für die Morgenfütterung am Montag, ist der Anmeldeschluss am vorherigen Samstag um 16 Uhr!",
-   "location": "Stall\nGZ Buchegg\nBucheggstr. 93\n8057 Zürich",
-   "cost": "kostenlos",
-   "price_chf_min": 0.0,
-   "registration": true,
-   "notes": "",
-   "description": "Besuchende können nach telefonischer Voranmeldung bei der Morgenfütterung der Tiere mithelfen.",
-   "image_url": null,
-   "url": "https://gz-zh.ch/gz-buchegg/angebote/morgenfuetterung/"
-  },
-  {
-   "id": "13-4808",
-   "title": "Zumbini®",
-   "gz": "GZ Oerlikon",
-   "recurrence": "multiple",
-   "dates": [
-    {
-     "date": "2026-10-26",
-     "start": "10:30",
-     "end": "11:15"
-    },
-    {
-     "date": "2026-11-09",
-     "start": "10:30",
-     "end": "11:15"
-    }
-   ],
-   "categories": [
-    "Bewegung/Tanz",
-    "Treffs/Gruppen"
-   ],
-   "target_groups": [
-    "familien",
-    "kinder"
-   ],
-   "schedule": "",
-   "location": "Aktionsraum, EG",
-   "cost": "Die erste Lektion kostet CHF 25 (für Kind und Erwachsenen zusammen, auch mit mehreren eigenen Kindern bleibt der Preis gleich).\nFür alle weiteren Lektionen gibt es diverse Abos, siehe www.zumbini-mit-loredana.ch.",
-   "price_chf_min": 25.0,
-   "registration": true,
-   "notes": "Für Kinder von 0-4 Jahren. Der Einstieg ist jederzeit möglich.\nKurs mehrheitlich auf Englisch, vieles wird auch in Deutsch erklärt.",
-   "description": "Happy hour for you and your baby! Sing, dance and play with simple instruments while you bond with your child!\nJust like in Zumba, the original Zumbini songs are fun!\nComparing to other music-based lessons, in Zumbini we are less focussed on learning music, we use music and movements to facilitate a variety of social and development benefits.\nSilliness and wacky dance moves are not required but highly, highly encouraged :-).\nZumbini was created by Zumba: it combines music, dance and educational tools.",
-   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2022/06/zumbini-1190x907.png",
-   "url": "https://gz-zh.ch/gz-oerlikon/angebote/zumbini/"
   },
   {
    "id": "16-1063",
@@ -2775,6 +2656,60 @@
    "url": "https://gz-zh.ch/gz-buchegg/angebote/1-elterntreff/"
   },
   {
+   "id": "13-1822",
+   "title": "SonntagzOerlikon",
+   "gz": "GZ Oerlikon",
+   "recurrence": "weekly",
+   "dates": [
+    {
+     "date": "2026-11-01",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-08",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-15",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-22",
+     "start": "14:00",
+     "end": "18:00"
+    },
+    {
+     "date": "2026-11-29",
+     "start": "14:00",
+     "end": "18:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Spiel",
+    "Treffs/Gruppen"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "Café und Indoor-Spielplatz, EG",
+   "cost": "",
+   "price_chf_min": null,
+   "registration": false,
+   "notes": "",
+   "description": "Bei Kaffee und Kuchen Freunde treffen, zusammen mit anderen Kindern im Innenspielplatz spielen oder einfach sein…\nGeniessen Sie mit Ihrer Familie den Sonntagnachmittag bei uns im GZ Oerlikon.\nVon Ende Oktober bis Mitte März öffnet das Café und der Indoor-Spielplatz auch am Sonntag.\nManchmal gibt es zusätzlich ein Kinderkultur-Anlass, Kino oder saisonale Angebote.\nWeiter Infos dazu finden Sie unter\nProgramm\n.",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/13/2020/12/SonntagzOerlikon-scaled-e1789139339778-1190x1190.webp",
+   "url": "https://gz-zh.ch/gz-oerlikon/angebote/sonntagzoerlikon-2/"
+  },
+  {
    "id": "2-664",
    "title": "Lernlokal Flickstube",
    "gz": "GZ Affoltern",
@@ -3833,6 +3768,41 @@
    "description": "Jedes Jahr erwartet die Besuchenden des Weihnachtsmarktes rund 25 Stände mit vielen liebevoll gestalteten Produkten – von handgemachtem Schmuck über Kerzen und Gestricktes bis hin zu verpackten, kulinarischen Köstlichkeiten.\nFinden Sie die passende Weihnachtsüberraschung für Ihre Lieblingsmenschen. Lassen Sie sich inspirieren von den selbstgefertigten Geschenken für sich selbst oder andere – und geniessen Sie etwas Leckeres zum Essen und Trinken im Bistro Wolfswinkel.\nMusikalisches Highlight:\nVon 13.30 bis 14.00 Uhr lädt der Schulchor der Privatschule A bis Z zu einem stimmungsvollen Gospelkonzert im Mehrzwecksaal des GFA Wolfswinkel ein. Freuen Sie sich auf festliche und schwungvolle Klänge, die den Weihnachtsmarktbesuch musikalisch bereichern.\nWir freuen uns auf Ihren Besuch!",
    "image_url": "https://gz-zh.ch/app/uploads/sites/2/2025/06/IMG_2714-1-1190x1190.webp",
    "url": "https://gz-zh.ch/gz-affoltern/angebote/weihnachtsmarkt-2/"
+  },
+  {
+   "id": "16-3969",
+   "title": "Offener Sonntag",
+   "gz": "GZ Seebach",
+   "recurrence": "single",
+   "dates": [
+    {
+     "date": "2026-11-29",
+     "start": "13:00",
+     "end": "17:00"
+    }
+   ],
+   "categories": [
+    "Events",
+    "Spiel",
+    "Treffs/Gruppen",
+    "Werken/Gestalten"
+   ],
+   "target_groups": [
+    "erwachsene",
+    "familien",
+    "jugendliche",
+    "kinder",
+    "seniorinnen"
+   ],
+   "schedule": "",
+   "location": "GZ Seebach\nProvisorium\nHertensteinstrasse 20\n8052 Zürich",
+   "cost": "keine\nausser fürs Café und Basteln",
+   "price_chf_min": 0.0,
+   "registration": true,
+   "notes": "Ihr seid herzlich willkommen, ob gross oder klein 🙂",
+   "description": "Herzlich willkommen: Kommt vorbei und\nentdeckt unser Haus!\nDas\nCafé\nund die\nSpielräume\nsind offen.\nAm Sonntag 25. Oktober kann im Atelier allerlei grusliges gebastelt werden und um 14 Uhr gibt es eine Kindervorlesung von Valentina Antoni, hier anmelden!\nhttps://gz-zh.ch/gz-seebach/angebote/\nkinderlesung-bunte-wunderteller\n/\n‎\nAm Sonntag 29. November gibt es Adventskranzbinden im Atelier, ohne Anmeldung.\nAdventskranzbinden",
+   "image_url": "https://gz-zh.ch/app/uploads/sites/16/2023/11/1699529570818-1190x1190.jpg",
+   "url": "https://gz-zh.ch/gz-seebach/angebote/offener-sonntag-2/"
   },
   {
    "id": "13-12383",
